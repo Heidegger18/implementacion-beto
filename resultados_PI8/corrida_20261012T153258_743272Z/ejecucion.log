@@ -1,0 +1,6 @@
+2026-10-12 10:33:03,003 Train=600, val=200, test=200
+2026-10-12 10:33:28,783 Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2026-10-12 10:33:38,147 Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2026-10-12 10:38:28,663 BETO época 1: macro-F1 val 0.9900
+2026-10-12 10:43:25,539 BETO época 2: macro-F1 val 0.9850
+2026-10-12 10:48:26,417 BETO época 3: macro-F1 val 0.9900

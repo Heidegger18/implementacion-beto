@@ -1,0 +1,10 @@
+{
+  "checkpoint": "dccuchile/bert-base-spanish-wwm-uncased",
+  "revision": "d1c9c4565c9d6731e57ed7f027b802697bad861e",
+  "dispositivo": "cpu",
+  "max_length": 128,
+  "lote": 8,
+  "epocas": 3,
+  "lr": 2e-05,
+  "weight_decay": 0.01
+}

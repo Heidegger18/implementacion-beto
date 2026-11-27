@@ -1,0 +1,120 @@
+<!doctype html><html lang="es"><meta charset="utf-8"><title>PI8 T6</title><style>body{font:16px Arial;max-width:1000px;margin:40px auto}td,th{padding:8px;border:1px solid #ddd}table{border-collapse:collapse}</style><h1>PI8 · Análisis de sentimientos</h1><p>Elvis Max Estela Paucar · T6 · Grupo A</p><p>Corpus sintético de prueba. No valida pacientes reales. BETO: ejecutado</p><h2>baseline</h2><p>Accuracy 0.9950 · Macro-F1 0.9950</p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>precision</th>
+      <th>recall</th>
+      <th>f1-score</th>
+      <th>support</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>negativo</th>
+      <td>0.9853</td>
+      <td>1.0000</td>
+      <td>0.9926</td>
+      <td>67.000</td>
+    </tr>
+    <tr>
+      <th>neutral</th>
+      <td>1.0000</td>
+      <td>1.0000</td>
+      <td>1.0000</td>
+      <td>66.000</td>
+    </tr>
+    <tr>
+      <th>positivo</th>
+      <td>1.0000</td>
+      <td>0.9851</td>
+      <td>0.9925</td>
+      <td>67.000</td>
+    </tr>
+    <tr>
+      <th>accuracy</th>
+      <td>0.9950</td>
+      <td>0.9950</td>
+      <td>0.9950</td>
+      <td>0.995</td>
+    </tr>
+    <tr>
+      <th>macro avg</th>
+      <td>0.9951</td>
+      <td>0.9950</td>
+      <td>0.9950</td>
+      <td>200.000</td>
+    </tr>
+    <tr>
+      <th>weighted avg</th>
+      <td>0.9951</td>
+      <td>0.9950</td>
+      <td>0.9950</td>
+      <td>200.000</td>
+    </tr>
+  </tbody>
+</table><img width="480" src="matriz_baseline.png"><h2>beto</h2><p>Accuracy 1.0000 · Macro-F1 1.0000</p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>precision</th>
+      <th>recall</th>
+      <th>f1-score</th>
+      <th>support</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>negativo</th>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>67.0</td>
+    </tr>
+    <tr>
+      <th>neutral</th>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>66.0</td>
+    </tr>
+    <tr>
+      <th>positivo</th>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>67.0</td>
+    </tr>
+    <tr>
+      <th>accuracy</th>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <th>macro avg</th>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>200.0</td>
+    </tr>
+    <tr>
+      <th>weighted avg</th>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>200.0</td>
+    </tr>
+  </tbody>
+</table><img width="480" src="matriz_beto.png"><h2>Comparación</h2><pre>{
+  &quot;delta_f1&quot;: 0.00497540146662967,
+  &quot;ic95_grupos&quot;: [
+    0.0,
+    0.015982122097996508
+  ],
+  &quot;replicas&quot;: 1000,
+  &quot;mcnemar_p&quot;: 1.0,
+  &quot;b&quot;: 0,
+  &quot;c&quot;: 1,
+  &quot;limite&quot;: &quot;Sintético. McNemar supone independencia entre casos; no garantizada. No prueba eficacia clínica.&quot;
+}</pre><p>Las etiquetas no tienen validación humana. Puede persistir semejanza entre plantillas.</p></html>

@@ -1,0 +1,25 @@
+{
+  "grupos": 991,
+  "pares_similares": 9,
+  "max_coseno_entre_particiones": 0.7746587337958256,
+  "umbral": 0.8,
+  "semilla": 42,
+  "conteos": {
+    "0": {
+      "test": 67,
+      "train": 199,
+      "val": 67
+    },
+    "1": {
+      "test": 66,
+      "train": 201,
+      "val": 66
+    },
+    "2": {
+      "test": 67,
+      "train": 200,
+      "val": 67
+    }
+  },
+  "limite": "La similitud de caracteres no identifica todas las familias sintéticas."
+}

@@ -1,0 +1,1001 @@
+﻿id_atencion,texto,labels,origen_dato,grupo,particion
+AT-0136,"El día que fui, me explicaron cómo volver si tenía otra duda. Me quedo con una buena impresión cuando ya estaba afuera.",2,sintético,0,test
+AT-0654,"Al hablar con el personal, me entregaron la fecha para volver. Al concluir mi visita, mi acompañante me esperaba afuera.",1,sintético,1,val
+AT-0117,"Sobre mi visita, el doctor leyó los papeles que llevé. Cuando terminó la visita, salí por la puerta principal.",1,sintético,2,test
+AT-0376,Ahora que lo pienso me trataron con cariño sin apurarme. Al acabar la atención para mí fue una buena visita,2,sintético,3,train
+AT-0095,"Al momento de atenderme, mi hora pasó y nadie me avisó qué ocurría. Tras esa atención, no me dieron ganas de regresar.",0,sintético,4,test
+AT-0386,"cuando llegó mi turno, me hicieron sentir como si estorbara se me quitaron las ganas de volver después de pasar a la sala",0,sintético,5,train
+AT-0606,"por mi parte, me dieron un número para esperar guardé la reserva junto a los papeles después de recoger mi carpeta",1,sintético,6,test
+AT-0667,De esa mañana recuerdo q me tocó pasar sin esperar tanto. Cuando volví a mi rutina me quedo con una buena impresión,2,sintético,7,train
+AT-0999,"el día que fui, entregué los papeles que me pidieron me reuní con quien me acompañaba después de mi turno",1,sintético,8,test
+AT-0230,"En esa visita, salí sin saber bien qué tenía que hacer. Me quedó una preocupación innecesaria cuando me fui de ahí.",0,sintético,9,train
+AT-0452,"A decir verdad, la espera fue demasiado larga para lo que me habían dicho. Tras esa atención, me quedé con mucha frustración.",0,sintético,10,val
+AT-0047,En la cita de esta semana me dejaron sin saber cuándo tenía que regresar. Me fui sin sentirme escuchado después de recoger mi carpeta,0,sintético,11,test
+AT-0169,"de mi atención puedo decir que, me dejaron hablar y eso se agradece me hizo bien que me atendieran así luego de ver cómo atendían",2,sintético,12,train
+AT-0822,Al acudir al lugar me llamaron después de la persona que estaba antes. Recogí mi carpeta antes de salir luego de ver cómo atendían,1,sintético,13,train
+AT-0043,"Algo q me quedó fue q, se podía conversar sin tanto ruido. Cuando volví a ver mis papeles, me hizo bien q me atendieran así.",2,sintético,14,train
+AT-0936,"en aquella consulta, me dieron un papel con lo que debía hacer puse los documentos en mi bolso cuando terminó la visita",1,sintético,15,test
+AT-0402,Al llegar mi momento anotaron lo que les conté. Al terminar de atenderme me reuní con quien me acompañaba,1,sintético,16,train
+AT-0424,Sobre mi visita me dijeron claramente cuándo tenía que volver. Al terminar mi cita me dio confianza la atención,2,sintético,17,val
+AT-0723,"Sin darle tantas vueltas, me dijeron dónde preguntar por la siguiente cita. Revisé el papel cuando llegué a casa después de recoger mi carpeta.",1,sintético,18,test
+AT-0027,"El día que fui, mostré la reserva de mi cita en la entrada. Después de recoger mi carpeta, me reuní con quien me acompañaba.",1,sintético,19,val
+AT-0171,"Desde mi lado, me dieron un papel con lo que debía hacer. Cuando me tocó irme, me llevé el documento con la fecha.",1,sintético,20,train
+AT-0380,En aquella consulta dijeron mis cosas frente a otros y me dio vergüenza. Al contar lo q pasó me sentí dejado de lado,0,sintético,21,test
+AT-0844,"La verdad, sentí que de verdad me escuchaban. Al concluir mi visita, me quedo con una buena impresión.",2,sintético,22,test
+AT-0798,"En la cita de esta semana, el doctor leyó los papeles que llevé. Al conversar con mi acompañante, salí con la carpeta que había llevado.",1,sintético,23,train
+AT-0734,"Para contar cómo me fue, tuve q subir por mi cuenta aunq me costaba mucho. No quedé conforme con la atención al recordar cómo me fue.",0,sintético,24,test
+AT-0888,Esta ves pasé por la mesa donde revisan las citas. Después de esa mañana recogí mi carpeta antes de salir,1,sintético,25,train
+AT-0802,"de esa mañana recuerdo q, me preguntaron antes de dejar entrar a alguien más cuando me fui de ahí, se agradece ese cuidado",2,sintético,26,test
+AT-0835,"Justo en mi turno, me hablaron bonito y con respeto. Después de lo de hoy, para mí fue una buena visita.",2,sintético,27,val
+AT-0636,"Segun lo q vivi, me llamaron despues de la persona q estaba antes. Al contar lo q paso, consulte la fecha antes de irme.",1,sintético,28,train
+AT-0577,"Al hablar con el personal, cuidaron que nadie viera mientras me revisaban. Se agradece ese cuidado al concluir mi visita.",2,sintético,29,train
+AT-0018,"En mi caso, me dieron un papel con lo que debía hacer. Al concluir mi visita, la visita quedó anotada en mi agenda.",1,sintético,30,test
+AT-0125,"En mi caso, la puerta quedó abierta mientras me revisaban. Después de recoger mi carpeta, me costaría recomendar ese lugar.",0,sintético,31,test
+AT-0850,"Al entrar, me dejaron hablar y eso se agradece. Después de pasar a la sala, agradezco cómo se portaron conmigo.",2,sintético,32,train
+AT-0392,"Sin exagerar, mi hora pasó y nadie me avisó qué ocurría. Terminé fastidiado al recordar ese día.",0,sintético,33,train
+AT-0619,"justo en mi turno, resolvieron lo de mi cita sin hacerme dar vueltas salí sintiendo que me tomaron en cuenta al concluir mi visita",2,sintético,34,train
+AT-0011,Desde mi lado entró gente sin preguntar y me incomodó. Al hablar de mi visita me quedé pensando en lo mal que me fue,0,sintético,35,test
+AT-0263,"con mi acompañante ahí, me mandaron de un lado a otro sin resolver nada terminé fastidiado al repasar lo q ocurrió",0,sintético,36,train
+AT-0039,"Al presentarme a la cita, me hicieron preguntas sobre cómo me sentía. Tenía mi número de cita guardado al pensar en mi próxima visita.",1,sintético,37,test
+AT-0439,"Durante la visita, me preguntaron antes de dejar entrar a alguien mas. Cuando volvi a mi rutina, fue agradable encontrar ese trato.",2,sintético,38,train
+AT-0541,"con mi acompañante ahí, el ambiente se sentía agradable al acabar la atención, pude salir sin esa preocupación",2,sintético,39,train
+AT-0132,"Esta vez, me hicieron preguntas sobre cómo me sentía. Anoté la visita en mi cuaderno al recordar cómo me fue.",1,sintético,40,train
+AT-0623,"según lo que viví, me hicieron volver a llenar los mismos papeles después de hablar con el doctor, no quedé contento con lo que pasó",0,sintético,41,train
+AT-0339,"de mi atención puedo decir que, mostré la reserva de mi cita en la entrada después de esa mañana, conservé la hoja de la visita",1,sintético,42,train
+AT-0174,"para contar cómo me fue, me dieron un número para esperar tenía mi número de cita guardado cuando volví a mi rutina",1,sintético,43,val
+AT-0600,"Al hablar con el personal, me dijeron dónde preguntar por la siguiente cita. Cuando terminó la visita, puse los documentos en mi bolso.",1,sintético,44,train
+AT-0965,"de verdad, hablaron tan rápido que no entendí casi nada después de la conversación, no me dieron ganas de regresar",0,sintético,45,train
+AT-0205,"Durante la visita, acercaron una silla y eso me ayudó mucho. Me llevo una buena experiencia al hablar de mi visita.",2,sintético,46,train
+AT-0555,"Esta ves, hice la fila para que me llamaran. Al recordar cómo me fue, llevaba el número de la cita en el celular.",1,sintético,47,val
+AT-0396,"En mi cita, mostre la reserva de mi cita en la entrada. Cuando termino la visita, me reuni con quien me acompanaba.",1,sintético,48,train
+AT-0275,"Cuando fui a verme, salí sin saber bien qué tenía que hacer. Tras el rato que pasé ahí, sentí que no les importaba.",0,sintético,49,train
+AT-0045,"para contar cómo me fue, me dijeron q llevara mis papeles en la siguiente visita cuando terminó la visita, volví a guardar mis papeles",1,sintético,50,train
+AT-0466,"Si cuento lo que paso, cuidaron que nadie viera mientras me revisaban. Al repasar lo que ocurrio, senti que valio la pena ir.",2,sintético,51,train
+AT-0141,"En el rato q estuve ahí, hablamos de la visita anterior. Después de esa mañana, me llevé el documento con la fecha.",1,sintético,52,train
+AT-0966,"Al llegar mi momento, la conversacion fue dentro del lugar donde me atendian. Guarde el papel que me entregaron al terminar mi cita.",1,sintético,53,train
+AT-0288,"Tal como me paso, me indicaron que pregunte en la entrada por otra hora. Sali por la puerta principal tras salir del cuarto.",1,sintético,54,val
+AT-0201,En mi última visita me dieron un número para esperar. Cuando volví a ver mis papeles tenía los documentos q me habían pedido,1,sintético,55,train
+AT-0568,"Cuando me tocó pasar, me aclararon todo lo que pregunté. Me quedé a gusto al contar lo que pasó.",2,sintético,56,train
+AT-0035,"Desde que pase a la sala, me hicieron hacer otra fila por un error de ellos. Me quede pensando en lo mal que me fue despues de la conversacion.",0,sintético,57,train
+AT-0390,"A mí, me atendieron en el cuarto que me habían indicado. Llevaba el número de la cita en el celular cuando volví a ver mis papeles.",1,sintético,58,train
+AT-0206,"al momento de atenderme, me dejaron esperando un montón sin decir nada me molestó tener q pasar por eso después de esa mañana",0,sintético,59,val
+AT-0405,"al presentarme a la cita, pasé por la mesa donde revisan las citas salí con la carpeta que había llevado tras haber ido a la cita",1,sintético,60,train
+AT-0688,"Con mis preguntas anotadas, por fin entendí lo que tenía que hacer. Me dejó conforme lo que hicieron cuando volví a ver mis papeles.",2,sintético,61,val
+AT-0590,"Al hablar con el personal, casi no me dejaron hablar. Después de esa mañana, me fui con mucha molestia.",0,sintético,62,train
+AT-0598,"Al momento de atenderme, cerraron la puerta para que pudiera hablar tranquilo. Cuando salí del lugar, me dejó confianza para volver.",2,sintético,63,test
+AT-0529,"Al hablar con el personal, sentí que de verdad me escuchaban. Cuando me tocó irme, para la próxima regresaría.",2,sintético,64,train
+AT-0030,Al llegar mi momento el cuarto quedaba al final del pasillo. Al contar lo q pasó salí por la puerta principal,1,sintético,65,test
+AT-0096,"Lo que paso fue que, el doctor leyo los papeles que lleve. Tenia los documentos que me habian pedido despues de recoger mi carpeta.",1,sintético,66,train
+AT-0491,"Al hablar con el personal, no me dieron una mano cuando la necesitaba. Me fui con mucha molestia cuando me fui de ahí.",0,sintético,67,train
+AT-0158,Para ser sincero no me dijeron cómo sacar la próxima cita. Me sentí dejado de lado al acabar la atención,0,sintético,68,train
+AT-0682,"de verdad, me explicaron con palabras fáciles da gusto que atiendan así al repasar lo que ocurrió",2,sintético,69,train
+AT-0148,"Mientras me atendian, senti que de verdad me escuchaban. Cuando volvi a mi rutina, se agradece ese cuidado.",2,sintético,70,val
+AT-0336,"en el rato que estuve ahí, el doctor leyó los papeles que llevé después de hablar con el doctor, salí por la puerta principal",1,sintético,71,train
+AT-0972,"Cuando me llamaron, me hicieron preguntas sobre cómo me sentía. Me reuní con quien me acompañaba tras haber ido a la cita.",1,sintético,72,val
+AT-0069,"En cuanto a la atención, me hicieron preguntas sobre cómo me sentía. Después de esa visita, revisé el papel cuando llegué a casa.",1,sintético,73,train
+AT-0279,"Al presentarme a la cita, la conversacion fue dentro del lugar donde me atendian. Al dejar el lugar, anote el nombre de quien me atendio.",1,sintético,74,train
+AT-0986,"Desde que pase a la sala, no consegui que me aclararan lo que quedo pendiente. No me senti tomado en cuenta cuando sali del lugar.",0,sintético,75,train
+AT-0239,"En cuanto a la atención, no encontraban mi cita y tuve que repetir todo. Al dejar el lugar, terminé la visita con disgusto.",0,sintético,76,test
+AT-0542,"Con la cita ya reservada, me hicieron hacer otra fila por un error de ellos. Cuando volví a ver mis papeles, me fui sin sentirme escuchado.",0,sintético,77,train
+AT-0257,"En la cita que tenía, sentí que mis preguntas les molestaban. Al repasar lo que ocurrió, no me parece bien que sea así.",0,sintético,78,test
+AT-0344,Para ser sincero nadie sabía dónde debía ir y perdí tiempo. Al dejar el lugar eso me dejó bastante incómodo,0,sintético,79,train
+AT-0403,"Para contar cómo me fue, me guiaron bien desde la entrada. Se agradece ese cuidado luego de ver cómo atendían.",2,sintético,80,train
+AT-0450,"Por mi parte, mire la pantalla donde salian los turnos. Al hablar de mi visita, anote la fecha en mi telefono.",1,sintético,81,train
+AT-0175,"Lo que recuerdo es que, me ayudaron a separar la siguiente cita. Le contaria algo bueno a mi familia cuando sali del lugar.",2,sintético,82,train
+AT-0354,"En la cita que tenia, anote el dia que aparece en el papel. Consulte la fecha antes de irme al hablar de mi visita.",1,sintético,83,test
+AT-0907,"Hablando de esa cita, me trataron con cariño sin apurarme. Me quedé a gusto al terminar de hablar.",2,sintético,84,val
+AT-0713,"para ser sincero, salí sin saber bien qué tenía que hacer al contar lo que pasó, me fui sin sentirme escuchado",0,sintético,85,val
+AT-0243,"tal como me pasó, revisaron mis datos y me indicaron dónde pasar miré la hora al salir del lugar cuando volví a mi rutina",1,sintético,86,train
+AT-0445,"Sobre mi visita, senti que de verdad me escuchaban. Al hablar de mi visita, me parecio una atencion cercana.",2,sintético,87,train
+AT-0828,"Al entrar, me atendieron en el cuarto que me habían indicado. Cuando ya estaba afuera, cerré mi carpeta antes de salir.",1,sintético,88,train
+AT-0373,"Lo primero que recuerdo es que, me dejaron hablar y eso se agradece. Para mí fue una buena visita después de esa visita.",2,sintético,89,val
+AT-0784,"Desde mi lado, pude atenderme a la hora que tenía separada. Después de esa hora, eso me dio bastante tranquilidad.",2,sintético,90,train
+AT-0198,"Con mis preguntas anotadas, me dijeron que llevara mis papeles en la siguiente visita. Al terminar de atenderme, apunté lo que decía el papel.",1,sintético,91,train
+AT-0302,"Mientras me atendían, me cansé de esperar sin que nadie respondiera. Terminé la visita con disgusto al irme del establecimiento.",0,sintético,92,train
+AT-0149,"desde que pasé a la sala, no había dónde sentarse y acabé muy incómodo tras salir del cuarto, me fui desanimado",0,sintético,93,train
+AT-0815,"De esa manana recuerdo que, sali sin saber bien que tenia que hacer. Despues de pasar a la sala, me quede con mucha frustracion.",0,sintético,94,train
+AT-0624,"Al acudir al lugar, me atendieron en el cuarto que me habían indicado. Guardé la reserva junto a los papeles cuando terminó la visita.",1,sintético,95,train
+AT-0449,"Ya dentro del lugar, me hicieron caminar de un lado a otro sin ayudarme. Me quedé pensando en lo mal que me fue después de esa visita.",0,sintético,96,test
+AT-0214,"Si cuento lo que pasó, cumplieron con la hora que me habían dado. Da gusto que atiendan así al dejar el lugar.",2,sintético,97,val
+AT-0127,"En la cita de esta semana, el doctor me repitió las cosas con paciencia. Terminé con ganas de volver después de lo de hoy.",2,sintético,98,test
+AT-0875,"Cuando fui a verme, otros pasaron antes y no me explicaron por qué. Tras el rato que pasé ahí, me quedó una preocupación innecesaria.",0,sintético,99,train
+AT-0960,"Mientras me atendían, el doctor leyó los papeles que llevé. Al salir por la entrada, me llevé el documento con la fecha.",1,sintético,100,train
+AT-0299,Al presentarme a la cita hablaron tan rápido que no entendí casi nada. Después de esa visita terminé fastidiado,0,sintético,101,train
+AT-0871,"Desde mi lado, cumplieron con la hora que me habian dado. Me ayudo que fueran asi de atentos al acabar la atencion.",2,sintético,102,train
+AT-0031,"Desde mi lado, me ayudaron con la puerta sin que tuviera que insistir. Agradezco cómo se portaron conmigo cuando me fui de ahí.",2,sintético,103,train
+AT-0934,"Al momento de atenderme, resolvieron lo de mi cita sin hacerme dar vueltas. Me dejo confianza para volver al terminar de atenderme.",2,sintético,104,train
+AT-0961,"Al acudir al lugar, el doctor tuvo paciencia conmigo. Para la proxima regresaria tras haber ido a la cita.",2,sintético,105,train
+AT-0481,"Cuando me llamaron, me explicaron cómo volver si tenía otra duda. Me sentí bien atendido al concluir mi visita.",2,sintético,106,test
+AT-0548,"En mi caso, no me dijeron cómo sacar la próxima cita. Después de mi turno, salí más preocupado de lo que entré.",0,sintético,107,test
+AT-0271,"Lo que recuerdo es que, entendí lo que me dijeron sin quedarme con dudas. Al salir por la entrada, le contaría algo bueno a mi familia.",2,sintético,108,train
+AT-0256,"En mi caso, me trataron con cariño sin apurarme. Tras haber ido a la cita, se nota cuando tienen paciencia.",2,sintético,109,train
+AT-0944,"justo en mi turno, salí sin saber bien qué tenía que hacer me quedo con una mala impresión cuando me tocó irme",0,sintético,110,train
+AT-0022,En la cita que tenía todo estaba ordenado y pasé sin problemas. Después de esa hora sí volvería a ese lugar,2,sintético,111,train
+AT-0633,"En la consulta de hoy, vi el letrero de mi sala antes de entrar. Al volver a casa, pasé por la entrada para recoger mis cosas.",1,sintético,112,train
+AT-0538,"Desde mi lado, me dijeron claramente cuando tenia que volver. Me quede a gusto al recordar como me fue.",2,sintético,113,train
+AT-0419,Cuando me llamaron me cortaban cuando intentaba contar lo q tenía. Al repasar lo q ocurrió ese trato me hizo perder confianza,0,sintético,114,train
+AT-0366,"Sin darle tantas vueltas, la próxima fecha quedó pendiente de que abran las citas. Después de lo de hoy, me llevé el documento con la fecha.",1,sintético,115,train
+AT-0532,"A mi, me dejaron hablar y eso se agradece. Luego de esa cita, para mi fue una buena visita.",2,sintético,116,val
+AT-0458,"De verdad, casi no me dejaron hablar. Al conversar con mi acompanante, me fui con mucha molestia.",0,sintético,117,test
+AT-0066,"Segun lo q vivi, pase por la mesa donde revisan las citas. Tenia la cita apuntada desde antes cuando llegue a casa.",1,sintético,118,val
+AT-0430,De verdad me trataron con cariño sin apurarme. Eso me dio bastante tranquilidad al terminar de hablar,2,sintético,119,train
+AT-0091,En la cita de esta semana me dieron una mano para moverme por el lugar. Después de hablar con el doctor sí volvería a ese lugar,2,sintético,120,train
+AT-0530,"Sin darle tantas vueltas, hablaron tan rápido que no entendí casi nada. Al repasar lo que ocurrió, me dio pena que me trataran así.",0,sintético,121,test
+AT-0044,"Por lo que me tocó vivir, no encontraban mi cita y tuve que repetir todo. Me molestó tener que pasar por eso al dejar el lugar.",0,sintético,122,test
+AT-0182,Con lo q me pasó sentí q cualquiera podía escuchar lo q contaba. Se me quitaron las ganas de volver al irme del establecimiento,0,sintético,123,train
+AT-0448,"Al hablar con el personal, el doctor tuvo paciencia conmigo. Salí con una sensación buena después de hablar con el doctor.",2,sintético,124,val
+AT-0101,"Una cosa que puedo contar es que, entro gente sin preguntar y me incomodo. Espero que lo revisen al hablar de mi visita.",0,sintético,125,val
+AT-0097,"Hoy, resolvieron lo de mi cita sin hacerme dar vueltas. Sí volvería a ese lugar al hablar de mi visita.",2,sintético,126,train
+AT-0475,"De mi atención puedo decir q, me ayudaron con los papeles y fue fácil. Me alegró q me trataran así después de recoger mi carpeta.",2,sintético,127,train
+AT-0809,"en aquella consulta, el doctor parecía querer q me fuera rápido al hablar de mi visita, me quedo con una mala impresión",0,sintético,128,train
+AT-0845,Como paciente me hicieron sentir como si estorbara. Me quedé pensando en lo mal que me fue después de recoger mi carpeta,0,sintético,129,train
+AT-0404,"Con mis preguntas anotadas, me hicieron hacer otra fila por un error de ellos. Termine fastidiado al volver a casa.",0,sintético,130,test
+AT-0665,"Por mi parte, no supe que hacer despues porque nadie me explico. Me fui sin sentirme escuchado al recordar como me fue.",0,sintético,131,train
+AT-0620,El día que fui el cuarto estaba sucio y eso me dio desconfianza. Después de mi turno no me sentí tomado en cuenta,0,sintético,132,train
+AT-0625,"Lo que pasó fue que, me ayudaron a separar la siguiente cita. Me sentí bien atendido al salir por la entrada.",2,sintético,133,test
+AT-0093,"Ya dentro del lugar, me hicieron preguntas sobre como me sentia. Apunte lo que decia el papel al salir por la entrada.",1,sintético,134,train
+AT-0074,"Al momento de atenderme, me mandaron de un lado a otro sin resolver nada. Salí más preocupado de lo que entré al hablar de mi visita.",0,sintético,135,train
+AT-0540,"Ahora q lo pienso, anotaron lo q les conté. Apunté lo q decía el papel al repasar lo q ocurrió.",1,sintético,136,train
+AT-0814,"de esa mañana recuerdo que, me avisaron a tiempo cuando me tocaba ojalá sigan atendiendo de esa manera tras salir del cuarto",2,sintético,137,test
+AT-0023,"Ya dentro del lugar, me hablaron de mala manera. Me costaría recomendar ese lugar al repasar lo que ocurrió.",0,sintético,138,test
+AT-0176,"Con lo que me pasó, la puerta quedó abierta mientras me revisaban. Al salir por la entrada, me fui con mucha molestia.",0,sintético,139,train
+AT-0870,La verdad mostré la reserva de mi cita en la entrada. Al hablar de mi visita me fui después de recoger mis cosas,1,sintético,140,train
+AT-0676,Sobre mi visita me dejaron un número para preguntar después. No tuve que insistir para que me escucharan al terminar de atenderme,2,sintético,141,val
+AT-0131,"cuando me tocó pasar, casi no me dejaron hablar después de lo de hoy, me quedé con mucha frustración",0,sintético,142,val
+AT-0293,"en mi caso, hablaron tan rápido que no entendí casi nada cuando llegué a casa, espero que lo revisen",0,sintético,143,train
+AT-0876,"Para contar como me fue, me dieron un papel con lo que debia hacer. La visita quedo anotada en mi agenda despues de lo de hoy.",1,sintético,144,train
+AT-0165,"Al presentarme a la cita, el cuarto quedaba al final del pasillo. Consulte la fecha antes de irme tras salir del cuarto.",1,sintético,145,train
+AT-0690,Al llegar mi momento me llamaron después de la persona q estaba antes. Después de hablar con el doctor llevé mis documentos de vuelta a casa,1,sintético,146,train
+AT-0261,En mi caso mostré la reserva de mi cita en la entrada. Al contar lo q pasó llevé mis documentos de vuelta a casa,1,sintético,147,train
+AT-0746,Lo que pasó fue que salí sin saber bien qué tenía que hacer. Terminé fastidiado al pensar en mi próxima visita,0,sintético,148,val
+AT-0287,"Lo que recuerdo es que, dijeron mis cosas frente a otros y me dio verguenza. No me parece bien que sea asi al irme del establecimiento.",0,sintético,149,test
+AT-0599,"En la consulta de hoy, otros pasaron antes y no me explicaron por que. Cuando llegue a casa, se me quitaron las ganas de volver.",0,sintético,150,train
+AT-0472,"Cuando me llamaron, entendí lo que me dijeron sin quedarme con dudas. Después de la conversación, salí con una sensación buena.",2,sintético,151,train
+AT-0613,"Para ser sincero, me indicaron dónde llamar y eso me dio tranquilidad. Después de esa visita, fue agradable encontrar ese trato.",2,sintético,152,train
+AT-0318,"Con lo que me pasó, confirmaron mi nombre antes de darme el turno. Después de lo de hoy, revisé el papel cuando llegué a casa.",1,sintético,153,train
+AT-0255,"De verdad, me senté en la sala antes de pasar. Revisé el papel cuando llegué a casa al conversar con mi acompañante.",1,sintético,154,val
+AT-0004,"sobre mi visita, me acompañaron hasta donde tenía que pasar agradezco cómo se portaron conmigo al dejar el lugar",2,sintético,155,val
+AT-0748,En aquella consulta encontraron mi reserva enseguida. Me sentí bien atendido al acabar la atención,2,sintético,156,test
+AT-0363,"Cuando me tocó pasar, la sala estaba en el mismo piso de la entrada. Después de la conversación, dejé los papeles en mi carpeta.",1,sintético,157,val
+AT-0207,"Por lo que me tocó vivir, me dijeron que llevara mis papeles en la siguiente visita. Tras haber ido a la cita, consulté la fecha antes de irme.",1,sintético,158,val
+AT-0200,"Con la cita ya reservada, otros pasaron antes y no me explicaron por qué. Al irme del establecimiento, me dio pena que me trataran así.",0,sintético,159,train
+AT-0399,"Con mis preguntas anotadas, hablamos de la visita anterior. Al recordar ese dia, guarde el papel que me entregaron.",1,sintético,160,train
+AT-0443,"La verdad, sentí que cualquiera podía escuchar lo que contaba. Después de esa visita, me quedé con mucha frustración.",0,sintético,161,train
+AT-0319,Lo que recuerdo es que acercaron una silla y eso me ayudó mucho. Tras el rato que pasé ahí quedé contento con el trato,2,sintético,162,val
+AT-0177,"hablando de esa cita, me llamaron después de la persona que estaba antes al recordar cómo me fue, dejé los papeles en mi carpeta",1,sintético,163,test
+AT-0720,"A mi, me dijeron q llevara mis papeles en la siguiente visita. Mi acompanante me esperaba afuera al irme del establecimiento.",1,sintético,164,val
+AT-0350,"La verdad, me dejaron esperando un montón sin decir nada. Espero que lo revisen al conversar con mi acompañante.",0,sintético,165,val
+AT-0948,De esa mañana recuerdo que hablé con el doctor dentro del cuarto. Me llevé el documento con la fecha al salir por la entrada,1,sintético,166,train
+AT-0782,"Mientras estaba ahí, me hablaron de mala manera. Me quedó una preocupación innecesaria luego de ver cómo atendían.",0,sintético,167,test
+AT-0479,"Mientras me atendian, no consegui que me aclararan lo que quedo pendiente. Luego de esa cita, me molesto tener que pasar por eso.",0,sintético,168,train
+AT-0952,"La verdad, me dejaron hablar y eso se agradece. Me dejó conforme lo q hicieron cuando me fui de ahí.",2,sintético,169,train
+AT-0199,En la cita de esta semana por fin entendí lo que tenía que hacer. Se agradece ese cuidado al salir por la entrada,2,sintético,170,train
+AT-0726,"ahora que lo pienso, me senté cerca de la puerta donde llamaban volví a guardar mis papeles después de hablar con el doctor",1,sintético,171,train
+AT-0995,"Mientras estaba ahi, otros pasaron antes y no me explicaron por que. Al acabar la atencion, se me quitaron las ganas de volver.",0,sintético,172,train
+AT-0080,Mientras estaba ahí sentí que mis preguntas les molestaban. Cuando volví a mi rutina me quedo con una mala impresión,0,sintético,173,train
+AT-0135,"para ser sincero, me pidieron confirmar mi nombre antes de entrar al terminar de atenderme, anoté la visita en mi cuaderno",1,sintético,174,train
+AT-0699,En esa visita me senté cerca de la puerta donde llamaban. Tras salir del cuarto me fui después de recoger mis cosas,1,sintético,175,train
+AT-0005,"Lo primero que recuerdo es que, tuve que subir por mi cuenta aunque me costaba mucho. Al salir por la entrada, no quedé contento con lo que pasó.",0,sintético,176,val
+AT-0409,"Si cuento lo que pasó, encontraron mi reserva enseguida. Me llevo una buena experiencia luego de ver cómo atendían.",2,sintético,177,train
+AT-0544,"al hablar con el personal, el doctor me repitió las cosas con paciencia da gusto que atiendan así al terminar mi cita",2,sintético,178,val
+AT-0292,"Lo que recuerdo es que, me hablaron bonito y con respeto. Cuando ya estaba afuera, eso me dio bastante tranquilidad.",2,sintético,179,train
+AT-0851,"En esa visita, me hicieron hacer otra fila por un error de ellos. Después de pasar a la sala, me fui desanimado.",0,sintético,180,train
+AT-0695,"De esa manana recuerdo que, dijeron mis cosas frente a otros y me dio verguenza. Despues de hablar con el doctor, me fui con mucha molestia.",0,sintético,181,val
+AT-0586,"De verdad, no se me fue toda la mañana esperando. Me fui más tranquilo al dejar el lugar.",2,sintético,182,test
+AT-0467,"A mi, casi no me dejaron hablar. No quede conforme con la atencion luego de ver como atendian.",0,sintético,183,train
+AT-0831,Según lo que viví anoté el día que aparece en el papel. Guardé el papel que me entregaron tras el rato que pasé ahí,1,sintético,184,train
+AT-0974,"En aquella consulta, hablaron tan rápido que no entendí casi nada. Quedé con una sensación fea después de mi turno.",0,sintético,185,val
+AT-0910,"mientras estaba ahí, el doctor me repitió las cosas con paciencia no tuve que insistir para que me escucharan al acabar la atención",2,sintético,186,val
+AT-0064,Para ser sincero me aclararon todo lo que pregunté. Me dejó confianza para volver luego de esa cita,2,sintético,187,val
+AT-0869,"De verdad, me cortaban cuando intentaba contar lo que tenia. Al salir por la entrada, me molesto tener que pasar por eso.",0,sintético,188,val
+AT-0388,"A decir verdad, me trataron con cariño sin apurarme. Después de mi turno, me llevo una buena experiencia.",2,sintético,189,train
+AT-0225,"Cuando llegó mi turno, me dieron un papel con lo que debía hacer. Al terminar de hablar, recogí mi carpeta antes de salir.",1,sintético,190,train
+AT-0140,A decir verdad me hicieron volver a llenar los mismos papeles. No quisiera repetir esa experiencia tras el rato que pasé ahí,0,sintético,191,train
+AT-0118,"cuando fui a verme, me hablaron bonito y con respeto para mí fue una buena visita después de mi turno",2,sintético,192,train
+AT-0796,"Con mis preguntas anotadas, me avisaron a tiempo cuando me tocaba. Pude salir sin esa preocupación al recordar cómo me fue.",2,sintético,193,test
+AT-0721,"Según lo que viví, el doctor tuvo paciencia conmigo. Tras esa atención, me quedo con una buena impresión.",2,sintético,194,train
+AT-0077,"Mientras estaba ahi, lo q me dijeron no coincidia con el papel y me confundi. Tras haber ido a la cita, me quedo una preocupacion innecesaria.",0,sintético,195,val
+AT-0646,"Para contar cómo me fue, me dejaron un número para preguntar después. Cuando ya estaba afuera, me dejó confianza para volver.",2,sintético,196,val
+AT-0848,"Al momento de atenderme, no supe qué hacer después porque nadie me explicó. No quisiera repetir esa experiencia cuando me tocó irme.",0,sintético,197,train
+AT-0559,"Cuando llego mi turno, cerraron la puerta para que pudiera hablar tranquilo. Se nota cuando tienen paciencia cuando volvi a mi rutina.",2,sintético,198,val
+AT-0790,"mientras me atendían, la fila avanzó rápido y me vino bien me fui más tranquilo cuando volví a ver mis papeles",2,sintético,199,val
+AT-0364,Con lo que me pasó me ayudaron con los papeles y fue fácil. Me dio confianza la atención cuando recogí mis cosas,2,sintético,200,test
+AT-0138,Sin exagerar me indicaron que pregunte en la entrada por otra hora. Al repasar lo que ocurrió me fui después de recoger mis cosas,1,sintético,201,train
+AT-0492,Desde que pasé a la sala pasé por la mesa donde revisan las citas. Anoté el nombre de quien me atendió al salir por la entrada,1,sintético,202,train
+AT-0090,"de esa mañana recuerdo q, el cuarto quedaba al final del pasillo cuando volví a ver mis papeles, recogí mi carpeta antes de salir",1,sintético,203,train
+AT-0254,"Sobre mi visita, pregunté otra vez y me dejaron con la misma duda. Cuando salí del lugar, me sentí dejado de lado.",0,sintético,204,train
+AT-0223,Al momento de atenderme me dejaron hablar y eso se agradece. Cuando recogí mis cosas me alegró que me trataran así,2,sintético,205,test
+AT-0955,"Desde mi lado, cuidaron que nadie viera mientras me revisaban. Después de lo de hoy, me ayudó que fueran así de atentos.",2,sintético,206,train
+AT-0036,Hoy me entregaron la fecha para volver. Tenía la cita apuntada desde antes cuando me fui de ahí,1,sintético,207,train
+AT-0662,"Durante la visita, me mandaron de un lado a otro sin resolver nada. Terminé la visita con disgusto al conversar con mi acompañante.",0,sintético,208,val
+AT-0269,"Por lo que vi, me dejaron sin saber cuándo tenía que regresar. Salí más preocupado de lo que entré luego de esa cita.",0,sintético,209,val
+AT-0512,"Hablando de esa cita, me mandaron de un lado a otro sin resolver nada. Al repasar lo que ocurrió, me molestó tener que pasar por eso.",0,sintético,210,train
+AT-0370,"La verdad, se podía conversar sin tanto ruido. Eso me dio bastante tranquilidad después de esa hora.",2,sintético,211,test
+AT-0722,"En mi cita, hablaron tan rápido que no entendí casi nada. Al pensar en mi próxima visita, quedé con una sensación fea.",0,sintético,212,train
+AT-0377,"En mi última visita, me mandaron de un lado a otro sin resolver nada. Me quedé pensando en lo mal que me fue cuando ya estaba afuera.",0,sintético,213,train
+AT-0184,"Según lo que viví, respetaron que quisiera estar a solas. Después de esa mañana, me sentí bien atendido.",2,sintético,214,train
+AT-0016,"Cuando fui a verme, sentí que de verdad me escuchaban. Tras haber ido a la cita, salí con una sensación buena.",2,sintético,215,val
+AT-0700,"desde mi lado, el doctor me repitió las cosas con paciencia al acabar la atención, me ayudó que fueran así de atentos",2,sintético,216,train
+AT-0533,"Al acudir al lugar, tuve q subir por mi cuenta aunq me costaba mucho. Al repasar lo q ocurrió, me fui sin sentirme escuchado.",0,sintético,217,val
+AT-0872,"en cuanto a la atención, me dijeron cosas que no entendí y no me aclararon nada me quedé con mucha frustración al acabar la atención",0,sintético,218,val
+AT-0962,"Si cuento lo que paso, lo que me dijeron no coincidia con el papel y me confundi. Me quede con mucha frustracion cuando me fui de ahi.",0,sintético,219,train
+AT-0810,"Una cosa que puedo contar es que, confirmaron mi nombre antes de darme el turno. Llevé mis documentos de vuelta a casa cuando terminó la visita.",1,sintético,220,val
+AT-0640,"con mi acompañante ahí, sentí que de verdad me escuchaban se agradece ese cuidado al hablar de mi visita",2,sintético,221,val
+AT-0877,"en mi cita, me ayudaron con los papeles y fue fácil al contar lo que pasó, quedé contento con el trato",2,sintético,222,train
+AT-0102,"con mi acompañante ahí, confirmaron mi nombre antes de darme el turno llevaba el número de la cita en el celular al terminar de hablar",1,sintético,223,train
+AT-0341,"Justo en mi turno, dijeron mis cosas frente a otros y me dio vergüenza. Después de lo de hoy, se me quitaron las ganas de volver.",0,sintético,224,test
+AT-0954,"A decir verdad, pase por la mesa donde revisan las citas. Mire la hora al salir del lugar al irme del establecimiento.",1,sintético,225,train
+AT-0764,"Por mi parte, me hicieron sentir como si estorbara. Después de esa visita, me dio pena que me trataran así.",0,sintético,226,val
+AT-0455,"Como paciente, no conseguí que me aclararan lo que quedó pendiente. Me dio pena que me trataran así cuando volví a ver mis papeles.",0,sintético,227,test
+AT-0297,"Por lo que me tocó vivir, revisaron mis datos y me indicaron dónde pasar. Después de la conversación, dejé anotada la hora de la siguiente visita.",1,sintético,228,train
+AT-0160,"Una cosa que puedo contar es que, no se me fue toda la manana esperando. Me ayudo que fueran asi de atentos despues de esa manana.",2,sintético,229,val
+AT-0100,Sin exagerar me hablaron bonito y con respeto. Se agradece ese cuidado al terminar de hablar,2,sintético,230,train
+AT-0416,"El día que fui, salí sin saber bien qué tenía que hacer. Al salir por la entrada, se me quitaron las ganas de volver.",0,sintético,231,train
+AT-0683,"Con mis preguntas anotadas, casi no me dejaron hablar. Me molestó tener q pasar por eso tras haber ido a la cita.",0,sintético,232,train
+AT-0334,"Con la cita ya reservada, me hicieron sentir en confianza. Tras haber ido a la cita, no tuve que insistir para que me escucharan.",2,sintético,233,train
+AT-0262,"En el rato que estuve ahí, el doctor me repitió las cosas con paciencia. Cuando volví a mi rutina, me quedé a gusto.",2,sintético,234,train
+AT-0909,"El día que fui, mi acompañante se quedó afuera mientras me revisaban. Cuando recogí mis cosas, volví a guardar mis papeles.",1,sintético,235,test
+AT-0002,El día que fui lo que me dijeron no coincidía con el papel y me confundí. Al terminar de atenderme me quedé pensando en lo mal que me fue,0,sintético,236,train
+AT-0469,"Según lo que viví, me guiaron bien desde la entrada. Al repasar lo que ocurrió, para mí fue una buena visita.",2,sintético,237,test
+AT-0115,"Justo en mi turno, todo estaba ordenado y pasé sin problemas. Para la próxima regresaría cuando me tocó irme.",2,sintético,238,val
+AT-0489,"para contar cómo me fue, hablamos de la visita anterior cuando llegué a casa, me reuní con quien me acompañaba",1,sintético,239,train
+AT-0389,"sin darle tantas vueltas, el cuarto estaba sucio y eso me dio desconfianza al hablar de mi visita, espero que lo revisen",0,sintético,240,val
+AT-0521,"de mi atención puedo decir que, me hicieron hacer otra fila por un error de ellos ojalá arreglen eso después de mi turno",0,sintético,241,train
+AT-0079,"hablando de esa cita, el doctor tuvo paciencia conmigo al concluir mi visita, me quedé a gusto",2,sintético,242,train
+AT-0241,"Con mis preguntas anotadas, encontraron mi reserva enseguida. Ojalá sigan atendiendo de esa manera después de hablar con el doctor.",2,sintético,243,val
+AT-0572,"para contar cómo me fue, el doctor parecía querer que me fuera rápido al conversar con mi acompañante, me quedo con una mala impresión",0,sintético,244,test
+AT-0923,"en esa atención, no encontraban mi cita y tuve que repetir todo al recordar cómo me fue, no me parece bien que sea así",0,sintético,245,test
+AT-0197,"Desde que pase a la sala, dijeron mis cosas frente a otros y me dio verguenza. Cuando sali del lugar, me dio pena que me trataran asi.",0,sintético,246,test
+AT-0953,"Cuando llegó mi turno, sentí que mis preguntas les molestaban. Al terminar de hablar, no quisiera repetir esa experiencia.",0,sintético,247,train
+AT-0684,"Al momento de atenderme, el doctor leyo los papeles que lleve. Conserve la hoja de la visita al salir por la entrada.",1,sintético,248,val
+AT-0551,"Por lo q vi, el cuarto estaba sucio y eso me dio desconfianza. Al terminar de atenderme, no me parece bien q sea asi.",0,sintético,249,val
+AT-0741,"En cuanto a la atencion, me sente en la sala antes de pasar. Tras salir del cuarto, llevaba el numero de la cita en el celular.",1,sintético,250,train
+AT-0978,"Lo primero que recuerdo es que, hice la fila para que me llamaran. Al irme del establecimiento, llevaba el número de la cita en el celular.",1,sintético,251,val
+AT-0942,"Con mis preguntas anotadas, me llamaron despues de la persona que estaba antes. Cuando volvi a mi rutina, revise el papel cuando llegue a casa.",1,sintético,252,train
+AT-0971,"mientras me atendían, me hicieron sentir como si estorbara después de mi turno, me fui desanimado",0,sintético,253,val
+AT-0331,"Según lo que viví, por fin entendí lo que tenía que hacer. Me pareció una atención cercana al contar lo que pasó.",2,sintético,254,train
+AT-0918,De verdad me dijeron dónde preguntar por la siguiente cita. Después de lo de hoy guardé el papel que me entregaron,1,sintético,255,train
+AT-0473,Para contar cómo me fue me hicieron hacer otra fila por un error de ellos. Al recordar cómo me fue me quedó una preocupación innecesaria,0,sintético,256,test
+AT-0771,"en esa atención, la sala estaba en el mismo piso de la entrada puse los documentos en mi bolso cuando recogí mis cosas",1,sintético,257,val
+AT-0133,"Lo que recuerdo es que, me ayudaron con los papeles y fue fácil. Cuando terminó la visita, me alegró que me trataran así.",2,sintético,258,train
+AT-0053,"en la cita de esta semana, me hicieron sentir como si estorbara espero que lo revisen después de esa visita",0,sintético,259,train
+AT-0803,"De esa manana recuerdo que, me cortaban cuando intentaba contar lo que tenia. Al conversar con mi acompanante, se me quitaron las ganas de volver.",0,sintético,260,train
+AT-0895,"Cuando llegó mi turno, por fin entendí lo que tenía que hacer. Al volver a casa, sentí que valió la pena ir.",2,sintético,261,train
+AT-0596,Hoy nadie sabía dónde debía ir y perdí tiempo. Después de esa hora buscaría otro lugar la próxima vez,0,sintético,262,train
+AT-0159,"Con la cita ya reservada, el doctor leyó los papeles que llevé. Me reuní con quien me acompañaba después de esa visita.",1,sintético,263,test
+AT-0516,"Cuando fui a verme, confirmaron mi nombre antes de darme el turno. Salí con la carpeta que había llevado cuando salí del lugar.",1,sintético,264,val
+AT-0460,"Al llegar mi momento, me preguntaron antes de dejar entrar a alguien más. Me alegró que me trataran así después de esa visita.",2,sintético,265,train
+AT-0724,"Cuando me tocó pasar, me trataron con cariño sin apurarme. Al recordar cómo me fue, terminé con ganas de volver.",2,sintético,266,train
+AT-0059,"Por lo q me tocó vivir, me mandaron a pedir otra cita sin explicarme cómo. Al terminar de hablar, quedé con una sensación fea.",0,sintético,267,train
+AT-0996,"con lo que me pasó, el doctor leyó los papeles que llevé salí con la carpeta que había llevado al terminar mi cita",1,sintético,268,train
+AT-0591,Desde mi lado anoté el día que aparece en el papel. La visita quedó anotada en mi agenda cuando volví a ver mis papeles,1,sintético,269,train
+AT-0593,"Por lo que me tocó vivir, me hicieron sentir como si estorbara. Me molestó tener que pasar por eso después de recoger mi carpeta.",0,sintético,270,val
+AT-0567,"Al hablar con el personal, busq mi sala siguiendo los numeros. Deje los papeles en mi carpeta tras esa atencion.",1,sintético,271,train
+AT-0685,"Ahora que lo pienso, me aclararon todo lo que pregunté. Salí con una sensación buena después de pasar a la sala.",2,sintético,272,train
+AT-0296,"Al llegar mi momento, mi hora pasó y nadie me avisó qué ocurría. Cuando volví a mi rutina, eso me dejó bastante incómodo.",0,sintético,273,train
+AT-0355,"Algo que me quedó fue que, me facilitaron llegar sin hacerme caminar de más. Terminé con ganas de volver al recordar cómo me fue.",2,sintético,274,train
+AT-0993,"En aquella consulta, confirmaron mi nombre antes de darme el turno. Cuando volvi a ver mis papeles, tenia mi numero de cita guardado.",1,sintético,275,train
+AT-0057,Al presentarme a la cita anotaron lo que les conté. Me llevé la copia que me dieron al salir por la entrada,1,sintético,276,train
+AT-0265,"En la cita que tenía, me hablaron bonito y con respeto. Al salir por la entrada, pude salir sin esa preocupación.",2,sintético,277,test
+AT-0762,"El día que fui, me llamaron después de la persona que estaba antes. Anoté la visita en mi cuaderno cuando ya estaba afuera.",1,sintético,278,train
+AT-0192,"De mi atención puedo decir que, me indicaron que pregunte en la entrada por otra hora. Tenía la cita apuntada desde antes cuando volví a mi rutina.",1,sintético,279,train
+AT-0827,"Sin darle tantas vueltas, se me fue la mañana en la fila y me molestó. Luego de esa cita, me sentí dejado de lado.",0,sintético,280,train
+AT-0048,"Justo en mi turno, me dieron un papel con lo que debia hacer. Cuando sali del lugar, tenia la cita apuntada desde antes.",1,sintético,281,val
+AT-0775,"cuando me tocó pasar, el lugar estaba limpio y me sentí cómodo al irme del establecimiento, me sentí bien atendido",2,sintético,282,train
+AT-0015,"Al momento de atenderme, hablamos de la visita anterior. Me reuní con quien me acompañaba después de pasar a la sala.",1,sintético,283,train
+AT-0153,"En mi caso, me senté en la sala antes de pasar. Después de la conversación, revisé el papel cuando llegué a casa.",1,sintético,284,train
+AT-0732,"Tal como me paso, la proxima fecha quedo pendiente de q abran las citas. Despues de esa hora, sali con la carpeta q habia llevado.",1,sintético,285,train
+AT-0150,"En mi cita, anotaron lo que les conte. Sali con la carpeta que habia llevado cuando termino la visita.",1,sintético,286,train
+AT-0729,"Con mis preguntas anotadas, revisaron mis datos y me indicaron donde pasar. Deje anotada la hora de la siguiente visita al terminar mi cita.",1,sintético,287,train
+AT-0236,A mí me hablaron de mala manera. Ese trato me hizo perder confianza cuando me fui de ahí,0,sintético,288,val
+AT-0818,"al acudir al lugar, me mandaron de un lado a otro sin resolver nada ojalá arreglen eso luego de esa cita",0,sintético,289,train
+AT-0674,"algo q me quedó fue q, casi no me dejaron hablar ojalá arreglen eso al dejar el lugar",0,sintético,290,train
+AT-0272,"Hoy, cambiaron mi hora cuando yo ya estaba ahí y me fastidió. Terminé fastidiado cuando llegué a casa.",0,sintético,291,train
+AT-0811,"Lo que recuerdo es que, me aclararon todo lo que pregunté. Al conversar con mi acompañante, me hizo bien que me atendieran así.",2,sintético,292,val
+AT-0076,"Con mi acompañante ahí, el lugar estaba limpio y me sentí cómodo. Al conversar con mi acompañante, me ayudó que fueran así de atentos.",2,sintético,293,train
+AT-0766,"mientras estaba ahí, me guiaron bien desde la entrada al recordar ese día, terminé con ganas de volver",2,sintético,294,train
+AT-0211,"esta vez, entendí lo que me dijeron sin quedarme con dudas cuando volví a mi rutina, da gusto que atiendan así",2,sintético,295,train
+AT-0564,"lo primero q recuerdo es q, la próxima fecha quedó pendiente de q abran las citas la visita quedó anotada en mi agenda al terminar de atenderme",1,sintético,296,train
+AT-0639,"de verdad, me entregaron la fecha para volver me fui después de recoger mis cosas cuando me tocó irme",1,sintético,297,train
+AT-0144,"Sobre mi visita, me dieron un numero para esperar. Despues de pasar a la sala, tenia la cita apuntada desde antes.",1,sintético,298,train
+AT-0557,"A mí, el doctor parecía querer que me fuera rápido. Después de hablar con el doctor, me fui desanimado.",0,sintético,299,test
+AT-0900,"En mi cita, hablamos de la visita anterior. Al irme del establecimiento, salí por la puerta principal.",1,sintético,300,test
+AT-0083,"En la cita de esta semana, no me dieron una mano cuando la necesitaba. Al terminar mi cita, no me parece bien que sea así.",0,sintético,301,test
+AT-0653,"por mi parte, me mandaron a pedir otra cita sin explicarme cómo al terminar mi cita, me quedé pensando en lo mal que me fue",0,sintético,302,train
+AT-0661,"Para ser sincero, me dijeron claramente cuándo tenía que volver. Cuando volví a mi rutina, me hizo bien que me atendieran así.",2,sintético,303,train
+AT-0501,Cuando fui a verme el doctor leyó los papeles que llevé. Al salir por la entrada volví a guardar mis papeles,1,sintético,304,val
+AT-0187,"En la consulta de hoy, encontraron mi reserva enseguida. Da gusto que atiendan así después de hablar con el doctor.",2,sintético,305,train
+AT-0440,"en esa visita, hablaron de mí en voz alta delante de la fila me quedo con una mala impresión luego de ver cómo atendían",0,sintético,306,test
+AT-0203,"Esta vez, se me fue la mañana en la fila y me molestó. Al recordar ese día, no quedé contento con lo q pasó.",0,sintético,307,train
+AT-0268,"Con lo que me pasó, sentí que de verdad me escuchaban. Cuando recogí mis cosas, se nota cuando tienen paciencia.",2,sintético,308,train
+AT-0585,"Al presentarme a la cita, la próxima fecha quedó pendiente de que abran las citas. Consulté la fecha antes de irme al dejar el lugar.",1,sintético,309,val
+AT-0561,Al entrar me entregaron la fecha para volver. Revisé el papel cuando llegué a casa tras el rato que pasé ahí,1,sintético,310,train
+AT-0126,"Como paciente, me sente cerca de la puerta donde llamaban. Anote la visita en mi cuaderno al dejar el lugar.",1,sintético,311,train
+AT-0088,"si cuento lo que pasó, el doctor me repitió las cosas con paciencia después de la conversación, eso me dio bastante tranquilidad",2,sintético,312,test
+AT-0855,"En esa atención, me dijeron que llevara mis papeles en la siguiente visita. Después de recoger mi carpeta, guardé la reserva junto a los papeles.",1,sintético,313,val
+AT-0880,"en mi caso, encontraron mi reserva enseguida sí volvería a ese lugar cuando volví a ver mis papeles",2,sintético,314,val
+AT-0010,Al acudir al lugar me aclararon todo lo que pregunté. Se nota cuando tienen paciencia cuando recogí mis cosas,2,sintético,315,test
+AT-0353,"Tal como me pasó, no me dijeron cómo sacar la próxima cita. No me sentí tomado en cuenta después de la conversación.",0,sintético,316,train
+AT-0938,Con mi acompañante ahí la puerta quedó abierta mientras me revisaban. Me decepcionó esa manera de atender tras salir del cuarto,0,sintético,317,val
+AT-0034,"Al llegar mi momento, me dieron espacio para hablar sin gente alrededor. Luego de ver cómo atendían, me sentí bien atendido.",2,sintético,318,train
+AT-0195,"Al hablar con el personal, me atendieron en el cuarto que me habian indicado. Sali por la puerta principal despues de la conversacion.",1,sintético,319,train
+AT-0920,"En el rato que estuve ahí, me dijeron cosas que no entendí y no me aclararon nada. Quedé con una sensación fea después de lo de hoy.",0,sintético,320,train
+AT-0886,"En la consulta de hoy, me explicaron cómo volver si tenía otra duda. Cuando terminó la visita, agradezco cómo se portaron conmigo.",2,sintético,321,test
+AT-0649,"Cuando me llamaron, arreglaron el error de mi nombre sin complicarme. Para mí fue una buena visita al concluir mi visita.",2,sintético,322,train
+AT-0725,"por lo que me tocó vivir, la espera fue demasiado larga para lo que me habían dicho tras haber ido a la cita, me fui desanimado",0,sintético,323,train
+AT-0328,"Sin darle tantas vueltas, pude atenderme a la hora q tenia separada. Me quedo con una buena impresion al acabar la atencion.",2,sintético,324,train
+AT-0976,"si cuento lo que pasó, sentí que de verdad me escuchaban tras salir del cuarto, no tuve que insistir para que me escucharan",2,sintético,325,test
+AT-0056,"Algo que me quedo fue que, no encontraban mi cita y tuve que repetir todo. Espero que lo revisen cuando volvi a ver mis papeles.",0,sintético,326,train
+AT-0194,"Por lo que vi, senti que mis preguntas les molestaban. Al hablar de mi visita, me quedo una preocupacion innecesaria.",0,sintético,327,val
+AT-0804,"Al presentarme a la cita, mi acompañante se quedó afuera mientras me revisaban. Después de lo de hoy, anoté la fecha en mi teléfono.",1,sintético,328,val
+AT-0285,"Sin darle tantas vueltas, revisaron mis datos y me indicaron dónde pasar. Al salir por la entrada, apunté lo que decía el papel.",1,sintético,329,train
+AT-0170,"Con lo que me pasó, casi no me dejaron hablar. Cuando volví a ver mis papeles, me quedé con mucha frustración.",0,sintético,330,train
+AT-0110,"en mi caso, me hablaron de mala manera tras salir del cuarto, espero que lo revisen",0,sintético,331,test
+AT-0712,"Con la cita ya reservada, me hablaron bonito y con respeto. Al irme del establecimiento, se nota cuando tienen paciencia.",2,sintético,332,train
+AT-0509,"Tal como me paso, el doctor parecia querer que me fuera rapido. Me decepciono esa manera de atender al volver a casa.",0,sintético,333,test
+AT-0912,Según lo q viví me entregaron la fecha para volver. Al terminar mi cita la visita quedó anotada en mi agenda,1,sintético,334,train
+AT-0173,"En mi caso, sentí que mis preguntas les molestaban. Después de mi turno, espero que lo revisen.",0,sintético,335,train
+AT-0130,Para ser sincero me explicaron cómo volver si tenía otra duda. Al volver a casa me hizo bien que me atendieran así,2,sintético,336,train
+AT-0911,"Tal como me pasó, el cuarto estaba sucio y eso me dio desconfianza. Después de pasar a la sala, no quisiera repetir esa experiencia.",0,sintético,337,val
+AT-0706,"Mientras me atendian, cerraron la puerta para que pudiera hablar tranquilo. Me dio confianza la atencion cuando me fui de ahi.",2,sintético,338,train
+AT-0085,"algo que me quedó fue que, me trataron con cariño sin apurarme al irme del establecimiento, me dio confianza la atención",2,sintético,339,train
+AT-0313,"Al momento de atenderme, salí sabiendo cómo pedir la próxima hora. Después de hablar con el doctor, me hizo bien que me atendieran así.",2,sintético,340,train
+AT-0756,Durante la visita el doctor leyó los papeles que llevé. Tenía los documentos que me habían pedido tras el rato que pasé ahí,1,sintético,341,train
+AT-0531,"la verdad, la conversación fue dentro del lugar donde me atendían cuando volví a mi rutina, dejé anotada la hora de la siguiente visita",1,sintético,342,train
+AT-0733,"en la consulta de hoy, me preguntaron antes de dejar entrar a alguien más al terminar de atenderme, me quedé a gusto",2,sintético,343,train
+AT-0666,"Ahora q lo pienso, me entregaron la fecha para volver. Al dejar el lugar, salí por la puerta principal.",1,sintético,344,val
+AT-0109,"De verdad, me dejaron hablar y eso se agradece. Tras salir del cuarto, me quedo con una buena impresion.",2,sintético,345,test
+AT-0060,"Según lo que viví, revisaron mis datos y me indicaron dónde pasar. Al terminar mi cita, recogí mi carpeta antes de salir.",1,sintético,346,val
+AT-0379,"en aquella consulta, por fin entendí lo que tenía que hacer cuando ya estaba afuera, quedé contento con el trato",2,sintético,347,train
+AT-0298,"De verdad, me hablaron bonito y con respeto. Sali sintiendo que me tomaron en cuenta luego de ver como atendian.",2,sintético,348,train
+AT-0853,"Desde que pasé a la sala, me tocó pasar sin esperar tanto. Me hizo bien que me atendieran así tras salir del cuarto.",2,sintético,349,test
+AT-0395,"Una cosa que puedo contar es que, cambiaron mi hora cuando yo ya estaba ahí y me fastidió. No quedé conforme con la atención cuando me fui de ahí.",0,sintético,350,train
+AT-0759,"En la cita de esta semana, me indicaron q papeles llevar la proxima vez. Consulte la fecha antes de irme cuando volvi a ver mis papeles.",1,sintético,351,train
+AT-0281,"Al presentarme a la cita, me hablaron de mala manera. Después de pasar a la sala, no me dieron ganas de regresar.",0,sintético,352,train
+AT-0651,"esta vez, el doctor leyó los papeles que llevé al contar lo que pasó, la visita quedó anotada en mi agenda",1,sintético,353,test
+AT-0494,"Con la cita ya reservada, el ruido de afuera no dejaba hablar tranquilo. Al contar lo que pasó, me quedé pensando en lo mal que me fue.",0,sintético,354,val
+AT-0499,"Al entrar, no se me fue toda la mañana esperando. Me hizo bien que me atendieran así al terminar mi cita.",2,sintético,355,test
+AT-0547,Lo primero que recuerdo es que me ayudaron con los papeles y fue fácil. Cuando volví a mi rutina agradezco cómo se portaron conmigo,2,sintético,356,val
+AT-0500,"Hoy, no supe qué hacer después porque nadie me explicó. Me fui con mucha molestia al terminar de hablar.",0,sintético,357,val
+AT-0781,"Al momento de atenderme, me explicaron con palabras fáciles. Tras salir del cuarto, para la próxima regresaría.",2,sintético,358,train
+AT-0183,"De esa manana recuerdo que, anotaron lo que les conte. Despues de esa manana, sali con la carpeta que habia llevado.",1,sintético,359,train
+AT-0779,"Cuando fui a verme, senti que mis preguntas les molestaban. Me dio pena que me trataran asi despues de esa visita.",0,sintético,360,test
+AT-0964,"Con mi acompañante ahí, el doctor tuvo paciencia conmigo. Fue agradable encontrar ese trato después de lo de hoy.",2,sintético,361,train
+AT-0552,Mientras estaba ahí me dieron un papel con lo que debía hacer. Al terminar de hablar tenía los documentos que me habían pedido,1,sintético,362,test
+AT-0750,"Una cosa que puedo contar es que, la proxima fecha quedo pendiente de que abran las citas. Conserve la hoja de la visita tras el rato que pase ahi.",1,sintético,363,train
+AT-0539,"Sin exagerar, me dejaron sin saber cuándo tenía q regresar. Cuando ya estaba afuera, no quedé contento con lo q pasó.",0,sintético,364,train
+AT-0021,Con mis preguntas anotadas busqué mi sala siguiendo los números. Tras salir del cuarto mi acompañante me esperaba afuera,1,sintético,365,test
+AT-0983,Por lo q vi casi no me dejaron hablar. Me molestó tener q pasar por eso después de lo de hoy,0,sintético,366,test
+AT-0078,"Sin exagerar, me hicieron preguntas sobre como me sentia. Recogi mi carpeta antes de salir luego de esa cita.",1,sintético,367,train
+AT-0012,Cuando me llamaron confirmaron mi nombre antes de darme el turno. Guardé la reserva junto a los papeles al contar lo que pasó,1,sintético,368,val
+AT-0190,"Hoy, salí sabiendo cómo pedir la próxima hora. Agradezco cómo se portaron conmigo al salir por la entrada.",2,sintético,369,train
+AT-0387,"Ahora que lo pienso, hablé con el doctor dentro del cuarto. Salí por la puerta principal al contar lo que pasó.",1,sintético,370,test
+AT-0055,"en aquella consulta, me trataron con cariño sin apurarme al terminar de hablar, agradezco cómo se portaron conmigo",2,sintético,371,train
+AT-0768,En esa visita me indicaron que pregunte en la entrada por otra hora. Al terminar de hablar cerré mi carpeta antes de salir,1,sintético,372,test
+AT-0693,"en mi última visita, me dieron un papel con lo que debía hacer anoté la fecha en mi teléfono al pensar en mi próxima visita",1,sintético,373,train
+AT-0253,"Hablando de esa cita, me dejaron hablar y eso se agradece. Termine con ganas de volver al pensar en mi proxima visita.",2,sintético,374,train
+AT-0520,"Con lo que me pasó, respetaron que quisiera estar a solas. Después de esa hora, fue agradable encontrar ese trato.",2,sintético,375,val
+AT-0860,"cuando me llamaron, me hicieron hacer otra fila por un error de ellos no quisiera repetir esa experiencia al irme del establecimiento",0,sintético,376,train
+AT-0959,"Sobre mi visita, lo que me dijeron no coincidía con el papel y me confundí. Al contar lo que pasó, me quedó una preocupación innecesaria.",0,sintético,377,test
+AT-0081,"Desde mi lado, mi acompañante se quedó afuera mientras me revisaban. Anoté el nombre de quien me atendió al hablar de mi visita.",1,sintético,378,test
+AT-0089,"por mi parte, me hablaron de mala manera me quedé pensando en lo mal q me fue al acabar la atención",0,sintético,379,train
+AT-0478,"Cuando me toco pasar, me explicaron despacito y eso me ayudo. Al recordar ese dia, se nota cuando tienen paciencia.",2,sintético,380,train
+AT-0998,"Con mis preguntas anotadas, lo que me dijeron no coincidía con el papel y me confundí. Terminé la visita con disgusto tras haber ido a la cita.",0,sintético,381,val
+AT-0786,"Al momento de atenderme, me senté en la sala antes de pasar. Al recordar cómo me fue, me reuní con quien me acompañaba.",1,sintético,382,train
+AT-0204,"una cosa que puedo contar es que, revisaron mis datos y me indicaron dónde pasar al recordar cómo me fue, salí con la carpeta que había llevado",1,sintético,383,test
+AT-0258,"A mí, anoté el día que aparece en el papel. Apunté lo que decía el papel cuando me tocó irme.",1,sintético,384,train
+AT-0103,"En la consulta de hoy, el doctor me repitió las cosas con paciencia. Al terminar de hablar, salí sintiendo q me tomaron en cuenta.",2,sintético,385,test
+AT-0431,En mi caso me hicieron hacer otra fila por un error de ellos. Cuando terminó la visita no quedé contento con lo que pasó,0,sintético,386,train
+AT-0266,Mientras estaba ahí llamé para preguntar después y nadie me respondió. Cuando volví a mi rutina no me dieron ganas de regresar,0,sintético,387,train
+AT-0689,"Desde que pasé a la sala, me cortaban cuando intentaba contar lo que tenía. Quedé con una sensación fea cuando volví a ver mis papeles.",0,sintético,388,train
+AT-0515,"En esa atención, nadie sabía dónde debía ir y perdí tiempo. Me quedó una preocupación innecesaria cuando llegué a casa.",0,sintético,389,val
+AT-0305,"Una cosa que puedo contar es que, lo que me dijeron no coincidia con el papel y me confundi. Al salir por la entrada, no quisiera repetir esa experiencia.",0,sintético,390,train
+AT-0898,"Al hablar con el personal, el lugar estaba limpio y me sentí cómodo. Se agradece ese cuidado cuando me fui de ahí.",2,sintético,391,test
+AT-0332,"De mi atención puedo decir q, sentí q mis preguntas les molestaban. Luego de ver cómo atendían, no quedé conforme con la atención.",0,sintético,392,test
+AT-0985,Por mi parte el doctor tuvo paciencia conmigo. Al contar lo q pasó salí con una sensación buena,2,sintético,393,test
+AT-0930,En mi caso el doctor leyó los papeles que llevé. Al contar lo que pasó tenía mi número de cita guardado,1,sintético,394,train
+AT-0841,"al entrar, sentí que de verdad me escuchaban salí sintiendo que me tomaron en cuenta al pensar en mi próxima visita",2,sintético,395,train
+AT-0755,"Para ser sincero, me mandaron a pedir otra cita sin explicarme como. Al concluir mi visita, sali mas preocupado de lo que entre.",0,sintético,396,train
+AT-0545,"Si cuento lo que pasó, no había dónde sentarse y acabé muy incómodo. No quisiera repetir esa experiencia después de pasar a la sala.",0,sintético,397,train
+AT-0052,Lo que recuerdo es que me dejaron hablar y eso se agradece. Me dio confianza la atención tras haber ido a la cita,2,sintético,398,test
+AT-0686,El día que fui hablaron tan rápido que no entendí casi nada. Me molestó tener que pasar por eso al concluir mi visita,0,sintético,399,train
+AT-0105,"Al presentarme a la cita, hablamos de la visita anterior. Anoté la fecha en mi teléfono tras esa atención.",1,sintético,400,val
+AT-0806,"en la cita de esta semana, me mandaron de un lado a otro sin resolver nada al terminar de hablar, me fui sin sentirme escuchado",0,sintético,401,train
+AT-0680,"durante la visita, las sillas estaban en mal estado y me incomodó me quedé pensando en lo mal que me fue después de esa mañana",0,sintético,402,train
+AT-0224,Para contar cómo me fue lo que me dijeron no coincidía con el papel y me confundí. Ese trato me hizo perder confianza al recordar cómo me fue,0,sintético,403,train
+AT-0437,"Durante la visita, tuve q subir por mi cuenta aunq me costaba mucho. Terminé fastidiado al terminar de hablar.",0,sintético,404,test
+AT-0050,"según lo q viví, dejaron pasar a otra persona sin avisarme y me molestó al conversar con mi acompañante, ese trato me hizo perder confianza",0,sintético,405,train
+AT-0461,"al llegar mi momento, no supe qué hacer después porq nadie me explicó me dio pena q me trataran así al irme del establecimiento",0,sintético,406,train
+AT-0704,"Al presentarme a la cita, me mandaron de un lado a otro sin resolver nada. Al hablar de mi visita, me molesto tener que pasar por eso.",0,sintético,407,val
+AT-0166,Con mis preguntas anotadas me ayudaron con los papeles y fue fácil. Para mí fue una buena visita después de pasar a la sala,2,sintético,408,test
+AT-0345,"Una cosa q puedo contar es q, pase por la mesa donde revisan las citas. Al volver a casa, cerre mi carpeta antes de salir.",1,sintético,409,val
+AT-0908,"A decir verdad, salí sin saber bien qué tenía que hacer. Terminé fastidiado al contar lo que pasó.",0,sintético,410,train
+AT-0498,"Por lo que vi, entregué los papeles que me pidieron. Cuando me tocó irme, miré la hora al salir del lugar.",1,sintético,411,test
+AT-0697,"Para ser sincero, el cuarto estaba ordenado y pude estar tranquilo. Me dejó conforme lo que hicieron al terminar de atenderme.",2,sintético,412,test
+AT-0730,"a mí, entendí lo que me dijeron sin quedarme con dudas se agradece ese cuidado cuando volví a ver mis papeles",2,sintético,413,train
+AT-0980,"Esta vez, el cuarto estaba sucio y eso me dio desconfianza. No quedé conforme con la atención después de lo de hoy.",0,sintético,414,train
+AT-0896,"Cuando llego mi turno, tuve que subir por mi cuenta aunque me costaba mucho. Al terminar de hablar, me costaria recomendar ese lugar.",0,sintético,415,val
+AT-0963,"Ya dentro del lugar, revisaron mis datos y me indicaron donde pasar. Al contar lo q paso, volvi a guardar mis papeles.",1,sintético,416,train
+AT-0592,Hoy cuidaron que nadie viera mientras me revisaban. Al dejar el lugar me alegró que me trataran así,2,sintético,417,train
+AT-0273,"El día que fui, pasé por la mesa donde revisan las citas. Al terminar mi cita, me reuní con quien me acompañaba.",1,sintético,418,train
+AT-0922,Con la cita ya reservada me guiaron bien desde la entrada. Para la próxima regresaría cuando volví a ver mis papeles,2,sintético,419,train
+AT-0185,"Al presentarme a la cita, nadie sabia donde debia ir y perdi tiempo. Me quede con mucha frustracion al salir por la entrada.",0,sintético,420,train
+AT-0873,Hoy me indicaron qué papeles llevar la próxima vez. Cuando ya estaba afuera revisé el papel cuando llegué a casa,1,sintético,421,test
+AT-0397,"desde que pasé a la sala, el doctor me repitió las cosas con paciencia después de recoger mi carpeta, eso me dio bastante tranquilidad",2,sintético,422,train
+AT-0274,"A mi, me dieron espacio para hablar sin gente alrededor. Tras el rato que pase ahi, pude salir sin esa preocupacion.",2,sintético,423,test
+AT-0715,"En la cita que tenía, me explicaron cómo volver si tenía otra duda. Ojalá sigan atendiendo de esa manera tras el rato que pasé ahí.",2,sintético,424,train
+AT-0196,"Mientras me atendian, me hablaron bonito y con respeto. Al terminar de atenderme, me senti bien atendido.",2,sintético,425,train
+AT-0208,De mi atención puedo decir que me explicaron despacito y eso me ayudó. Al recordar ese día me sentí bien atendido,2,sintético,426,train
+AT-0902,"Lo primero que recuerdo es que, senti que mis preguntas les molestaban. Despues de esa manana, esperaba algo mejor.",0,sintético,427,val
+AT-0193,"En el rato que estuve ahí, por fin entendí lo que tenía que hacer. Pude salir sin esa preocupación cuando salí del lugar.",2,sintético,428,train
+AT-0156,Cuando me tocó pasar me entregaron la fecha para volver. Me fui después de recoger mis cosas después de mi turno,1,sintético,297,train
+AT-0172,"en cuanto a la atención, me aclararon todo lo q pregunté me quedo con una buena impresión cuando volví a ver mis papeles",2,sintético,429,train
+AT-0645,"en la cita que tenía, confirmaron mi nombre antes de darme el turno luego de esa cita, cerré mi carpeta antes de salir",1,sintético,430,test
+AT-0014,Durante la visita mi hora pasó y nadie me avisó qué ocurría. Después de esa hora me quedó una preocupación innecesaria,0,sintético,431,train
+AT-0824,"Con lo que me paso, senti que mis preguntas les molestaban. Me quede pensando en lo mal que me fue al terminar mi cita.",0,sintético,432,val
+AT-0861,"En aquella consulta, anoté el día que aparece en el papel. Al terminar de atenderme, revisé el papel cuando llegué a casa.",1,sintético,433,test
+AT-0719,"Con la cita ya reservada, me hisieron volver a llenar los mismos papeles. Me costaría recomendar ese lugar cuando me fui de ahí.",0,sintético,434,test
+AT-0637,"Lo primero que recuerdo es que, me trataron con carino sin apurarme. Me fui mas tranquilo despues de esa manana.",2,sintético,435,train
+AT-0213,"A decir verdad, anotaron lo que les conté. Después de mi turno, llevaba el número de la cita en el celular.",1,sintético,436,train
+AT-0536,"En la cita de esta semana, me mandaron a pedir otra cita sin explicarme como. Me molesto tener que pasar por eso cuando recogi mis cosas.",0,sintético,437,train
+AT-0306,"a decir verdad, mostré la reserva de mi cita en la entrada pasé por la entrada para recoger mis cosas al repasar lo que ocurrió",1,sintético,438,train
+AT-0660,"Durante la visita, confirmaron mi nombre antes de darme el turno. Cuando llegué a casa, consulté la fecha antes de irme.",1,sintético,439,test
+AT-0897,"En la cita que tenía, mostré la reserva de mi cita en la entrada. Cuando llegué a casa, tenía mi número de cita guardado.",1,sintético,440,val
+AT-0569,"Como paciente, hablaron tan rápido que no entendí casi nada. No quedé conforme con la atención al terminar de atenderme.",0,sintético,441,test
+AT-0879,"de verdad, confirmaron mi nombre antes de darme el turno cuando salí del lugar, salí con la carpeta que había llevado",1,sintético,264,val
+AT-0425,"En aquella consulta, nadie sabía dónde debía ir y perdí tiempo. Tras esa atención, me quedó una preocupación innecesaria.",0,sintético,389,val
+AT-0672,"Una cosa que puedo contar es que, esperé hasta que dijeron mi nombre. Después de esa mañana, pasé por la entrada para recoger mis cosas.",1,sintético,442,train
+AT-0356,"Si cuento lo que pasó, se me fue la mañana en la fila y me molestó. Quedé con una sensación fea después de la conversación.",0,sintético,443,train
+AT-0708,Algo que me quedó fue que mostré la reserva de mi cita en la entrada. La visita quedó anotada en mi agenda al hablar de mi visita,1,sintético,444,test
+AT-0927,"Algo que me quedó fue que, me dijeron dónde preguntar por la siguiente cita. Después de lo de hoy, consulté la fecha antes de irme.",1,sintético,445,train
+AT-0375,"en la consulta de hoy, hablé con el doctor dentro del cuarto tenía los documentos que me habían pedido luego de ver cómo atendían",1,sintético,446,test
+AT-0411,Ahora q lo pienso me dieron un número para esperar. Revisé el papel cuando llegué a casa luego de ver cómo atendían,1,sintético,447,train
+AT-0142,"Al presentarme a la cita, me explicaron despacito y eso me ayudo. Me ayudo que fueran asi de atentos al hablar de mi visita.",2,sintético,448,train
+AT-0381,"De verdad, mire la pantalla donde salian los turnos. Tras esa atencion, apunte lo que decia el papel.",1,sintético,449,test
+AT-0324,"A mi, mostre la reserva de mi cita en la entrada. Cuando volvi a mi rutina, tenia mi numero de cita guardado.",1,sintético,450,val
+AT-0611,"con mi acompañante ahí, las sillas estaban en mal estado y me incomodó al volver a casa, terminé la visita con disgusto",0,sintético,451,train
+AT-0956,"En mi cita, me cortaban cuando intentaba contar lo que tenia. Ese trato me hizo perder confianza al concluir mi visita.",0,sintético,452,train
+AT-0791,"Como paciente, salí sin saber bien qué tenía que hacer. Cuando terminó la visita, quedé con una sensación fea.",0,sintético,453,test
+AT-0595,"Lo que paso fue que, me dejaron hablar y eso se agradece. Cuando me fui de ahi, quede contento con el trato.",2,sintético,454,train
+AT-0229,"En la consulta de hoy, hablaron bajito para que no escucharan mis cosas. Al hablar de mi visita, pude salir sin esa preocupación.",2,sintético,455,test
+AT-0385,"Como paciente, me facilitaron llegar sin hacerme caminar de mas. Me senti bien atendido cuando volvi a ver mis papeles.",2,sintético,456,train
+AT-0432,"Sin exagerar, hablé con el doctor dentro del cuarto. Después de esa hora, volví a guardar mis papeles.",1,sintético,457,test
+AT-0826,"al presentarme a la cita, había sitio para sentarse y eso se agradece no tuve q insistir para q me escucharan luego de esa cita",2,sintético,458,val
+AT-0524,"Al entrar, el doctor parecía querer que me fuera rápido. Sentí que no les importaba al volver a casa.",0,sintético,459,train
+AT-0919,"Con la cita ya reservada, me ayudaron a separar la siguiente cita. Me fui más tranquilo cuando me tocó irme.",2,sintético,460,val
+AT-0441,"Con mi acompañante ahí, revisaron mis datos y me indicaron dónde pasar. La visita quedó anotada en mi agenda al terminar de hablar.",1,sintético,461,train
+AT-0329,"Con mi acompañante ahí, salí sin saber bien qué tenía q hacer. Ese trato me hizo perder confianza al conversar con mi acompañante.",0,sintético,462,train
+AT-0084,De esa mañana recuerdo que me indicaron qué papeles llevar la próxima vez. Al hablar de mi visita tenía mi número de cita guardado,1,sintético,463,train
+AT-0856,"Ya dentro del lugar, me ayudaron con la puerta sin q tuviera q insistir. Ojalá sigan atendiendo de esa manera al pensar en mi próxima visita.",2,sintético,464,train
+AT-0668,Justo en mi turno me dejaron esperando un montón sin decir nada. Ojalá arreglen eso al acabar la atención,0,sintético,465,train
+AT-0209,"sin exagerar, sentí q cualquiera podía escuchar lo q contaba terminé la visita con disgusto al dejar el lugar",0,sintético,466,train
+AT-0303,"Al momento de atenderme, me indicaron qué papeles llevar la próxima vez. Al contar lo que pasó, me reuní con quien me acompañaba.",1,sintético,467,test
+AT-0903,"Ya dentro del lugar, el doctor leyó los papeles que llevé. Pasé por la entrada para recoger mis cosas al recordar ese día.",1,sintético,468,test
+AT-0931,Sin darle tantas vueltas me aclararon todo lo que pregunté. Cuando me fui de ahí salí sintiendo que me tomaron en cuenta,2,sintético,469,train
+AT-0485,"Sin exagerar, el doctor parecía querer que me fuera rápido. Después de mi turno, me quedé pensando en lo mal que me fue.",0,sintético,470,train
+AT-0703,Al llegar mi momento me hablaron bonito y con respeto. Después de esa mañana sentí q valió la pena ir,2,sintético,471,train
+AT-0252,"Como paciente, mostré la reserva de mi cita en la entrada. Me llevé el documento con la fecha al recordar ese día.",1,sintético,472,train
+AT-0867,"Por lo que vi, me llamaron después de la persona que estaba antes. Después de la conversación, guardé el papel que me entregaron.",1,sintético,473,train
+AT-0663,"Cuando me toco pasar, el cuarto quedaba al final del pasillo. Al terminar mi cita, tenia los documentos q me habian pedido.",1,sintético,474,test
+AT-0309,"Para ser sincero, me dieron un papel con lo que debía hacer. Al terminar de atenderme, tenía la cita apuntada desde antes.",1,sintético,475,val
+AT-0429,Por lo que me tocó vivir el doctor leyó los papeles que llevé. Después de hablar con el doctor tenía la cita apuntada desde antes,1,sintético,476,test
+AT-0215,"Si cuento lo que pasó, sentí que cualquiera podía escuchar lo que contaba. Al volver a casa, me quedo con una mala impresión.",0,sintético,477,val
+AT-0104,"En mi cita, nadie sabía dónde debía ir y perdí tiempo. Después de esa mañana, buscaría otro lugar la próxima vez.",0,sintético,262,train
+AT-0711,"Al entrar, anote el dia que aparece en el papel. Cuando volvi a mi rutina, anote la visita en mi cuaderno.",1,sintético,478,val
+AT-0372,"lo q pasó fue q, me dieron un papel con lo q debía hacer cerré mi carpeta antes de salir cuando me fui de ahí",1,sintético,479,train
+AT-0758,"Sobre mi visita, me canse de esperar sin que nadie respondiera. Al terminar de atenderme, me decepciono esa manera de atender.",0,sintético,480,train
+AT-0691,"A decir verdad, por fin entendí lo q tenía q hacer. Después de recoger mi carpeta, no tuve q insistir para q me escucharan.",2,sintético,481,train
+AT-0990,"En cuanto a la atencion, anote el dia que aparece en el papel. Mire la hora al salir del lugar cuando termino la visita.",1,sintético,482,train
+AT-0832,"Con la cita ya reservada, me dieron una mano para moverme por el lugar. Al irme del establecimiento, agradezco cómo se portaron conmigo.",2,sintético,483,train
+AT-0496,"En el rato que estuve ahí, me hicieron sentir en confianza. Salí con una sensación buena al recordar cómo me fue.",2,sintético,484,train
+AT-0694,"Tal como me pasó, hablaron bajito para que no escucharan mis cosas. No tuve que insistir para que me escucharan al volver a casa.",2,sintético,485,train
+AT-0414,"con lo que me pasó, me dieron un número para esperar pasé por la entrada para recoger mis cosas después de esa hora",1,sintético,486,val
+AT-0007,"Cuando me llamaron, me ayudaron con los papeles y fue facil. Al dejar el lugar, le contaria algo bueno a mi familia.",2,sintético,487,train
+AT-0506,Como paciente no encontraban mi cita y tuve q repetir todo. Al terminar de hablar no me dieron ganas de regresar,0,sintético,488,val
+AT-0615,"Algo que me quedó fue que, pasé por la mesa donde revisan las citas. Cuando me fui de ahí, volví a guardar mis papeles.",1,sintético,489,train
+AT-0817,Cuando fui a verme me aclararon todo lo que pregunté. Me ayudó que fueran así de atentos cuando llegué a casa,2,sintético,490,test
+AT-0793,"De mi atencion puedo decir que, hablaron bajito para que no escucharan mis cosas. Me quedo con una buena impresion al contar lo que paso.",2,sintético,491,val
+AT-0124,"Según lo que viví, el doctor me repitió las cosas con paciencia. Fue agradable encontrar ese trato al dejar el lugar.",2,sintético,492,train
+AT-0578,"De mi atencion puedo decir que, casi no me dejaron hablar. Buscaria otro lugar la proxima vez tras haber ido a la cita.",0,sintético,493,train
+AT-0614,"Ya dentro del lugar, nadie sabia donde debia ir y perdi tiempo. Me fui desanimado cuando me toco irme.",0,sintético,494,train
+AT-0604,"Esta vez, sentí que de verdad me escuchaban. Luego de esa cita, me ayudó que fueran así de atentos.",2,sintético,495,train
+AT-0304,Con mis preguntas anotadas arreglaron el error de mi nombre sin complicarme. Me dio confianza la atención después de esa mañana,2,sintético,496,train
+AT-0866,"De verdad, me dejaron esperando un montón sin decir nada. Me quedo con una mala impresión tras esa atención.",0,sintético,497,val
+AT-0863,Cuando fui a verme me mandaron a pedir otra cita sin explicarme cómo. Al repasar lo que ocurrió espero que lo revisen,0,sintético,498,train
+AT-0583,"Con lo que me paso, me trataron con carino sin apurarme. Me alegro que me trataran asi tras haber ido a la cita.",2,sintético,499,train
+AT-0025,Ahora que lo pienso no se me fue toda la mañana esperando. Cuando ya estaba afuera se agradece ese cuidado,2,sintético,500,train
+AT-0925,"En esa visita, me hablaron bonito y con respeto. Me alegró q me trataran así al volver a casa.",2,sintético,501,train
+AT-0558,"Al momento de atenderme, pasé por la mesa donde revisan las citas. Al pensar en mi próxima visita, me fui después de recoger mis cosas.",1,sintético,502,test
+AT-0752,"al momento de atenderme, sentí que cualquiera podía escuchar lo que contaba tras el rato que pasé ahí, no me sentí tomado en cuenta",0,sintético,503,train
+AT-0627,"Al presentarme a la cita, esperé con mi número en la mano. Al repasar lo que ocurrió, guardé la reserva junto a los papeles.",1,sintético,504,test
+AT-0780,"Por lo que me tocó vivir, anoté el día que aparece en el papel. Al terminar de hablar, la visita quedó anotada en mi agenda.",1,sintético,505,train
+AT-0374,"En mi última visita, no encontraban mi cita y tuve que repetir todo. Al conversar con mi acompañante, me fui sin sentirme escuchado.",0,sintético,506,train
+AT-0434,"lo que pasó fue que, no me dieron una mano cuando la necesitaba eso me dejó bastante incómodo luego de esa cita",0,sintético,507,train
+AT-0813,"En cuanto a la atencion, pase por la mesa donde revisan las citas. Apunte lo que decia el papel despues de pasar a la sala.",1,sintético,508,train
+AT-0123,Como paciente vi el letrero de mi sala antes de entrar. Al terminar mi cita anoté el nombre de quien me atendió,1,sintético,509,test
+AT-0227,"con lo que me pasó, me cansé de esperar sin que nadie respondiera me quedó una preocupación innecesaria después de recoger mi carpeta",0,sintético,510,train
+AT-0476,"Cuando me llamaron, me dejaron esperando un montón sin decir nada. Me decepcionó esa manera de atender cuando volví a mi rutina.",0,sintético,511,train
+AT-0340,"Con mi acompanante ahi, me avisaron a tiempo cuando me tocaba. Al recordar ese dia, para la proxima regresaria.",2,sintético,512,train
+AT-0314,Durante la visita casi no me dejaron hablar. Tras esa atención me quedé pensando en lo mal que me fue,0,sintético,513,test
+AT-0406,"El dia que fui, senti que de verdad me escuchaban. Al volver a casa, sali con una sensacion buena.",2,sintético,514,train
+AT-0761,"El día que fui, casi no me dejaron hablar. Me fui desanimado al recordar cómo me fue.",0,sintético,515,train
+AT-0882,Desde mi lado me dieron un número para esperar. Cuando salí del lugar volví a guardar mis papeles,1,sintético,516,train
+AT-0767,"Con la cita ya reservada, hablaron tan rapido que no entendi casi nada. Cuando volvi a mi rutina, espero que lo revisen.",0,sintético,517,val
+AT-0906,"Por lo que me tocó vivir, me dijeron dónde preguntar por la siguiente cita. Me llevé el documento con la fecha después de mi turno.",1,sintético,518,train
+AT-0772,"De esa mañana recuerdo que, salí sabiendo cómo pedir la próxima hora. Me quedé a gusto al volver a casa.",2,sintético,519,train
+AT-0029,"Al acudir al lugar, me hablaron de mala manera. Quedé con una sensación fea al irme del establecimiento.",0,sintético,520,test
+AT-0679,"El dia que fui, cuidaron que nadie viera mientras me revisaban. Se nota cuando tienen paciencia despues de esa hora.",2,sintético,521,train
+AT-0891,"en mi cita, esperé en una de las sillas del pasillo guardé el papel que me entregaron al terminar de atenderme",1,sintético,522,train
+AT-0554,"Algo que me quedo fue que, el doctor parecia querer que me fuera rapido. Me quedo una preocupacion innecesaria luego de esa cita.",0,sintético,523,test
+AT-0435,"Sin darle tantas vueltas, mostré la reserva de mi cita en la entrada. Al contar lo que pasó, guardé la reserva junto a los papeles.",1,sintético,524,val
+AT-0951,"tal como me pasó, me dieron un papel con lo que debía hacer después de recoger mi carpeta, anoté la fecha en mi teléfono",1,sintético,525,train
+AT-0979,"cuando me tocó pasar, entendí lo q me dijeron sin quedarme con dudas tras esa atención, le contaría algo bueno a mi familia",2,sintético,526,train
+AT-0570,"Hablando de esa cita, hablé con el doctor dentro del cuarto. Cuando recogí mis cosas, pasé por la entrada para recoger mis cosas.",1,sintético,527,train
+AT-0228,A decir verdad esperé en una de las sillas del pasillo. Me reuní con quien me acompañaba luego de esa cita,1,sintético,528,val
+AT-0675,"Sobre mi visita, me dijeron que llevara mis papeles en la siguiente visita. Tras haber ido a la cita, recogi mi carpeta antes de salir.",1,sintético,529,train
+AT-0808,"Esta ves, me trataron con cariño sin apurarme. Terminé con ganas de volver al contar lo q pasó.",2,sintético,530,train
+AT-0597,"por lo que me tocó vivir, confirmaron mi nombre antes de darme el turno me llevé la copia que me dieron cuando ya estaba afuera",1,sintético,531,val
+AT-0763,"De esa mañana recuerdo que, por fin entendí lo que tenía que hacer. Para mí fue una buena visita al contar lo que pasó.",2,sintético,532,test
+AT-0442,"Por mi parte, me dejaron un número para preguntar después. Se nota cuando tienen paciencia al hablar de mi visita.",2,sintético,533,train
+AT-0422,"Lo que recuerdo es que, salí sin saber bien qué tenía que hacer. Al terminar mi cita, no quedé conforme con la atención.",0,sintético,534,train
+AT-0847,"Cuando me llamaron, acercaron una silla y eso me ayudó mucho. Fue agradable encontrar ese trato cuando volví a mi rutina.",2,sintético,535,train
+AT-0950,"Lo que recuerdo es que, me hicieron volver a llenar los mismos papeles. Me fui sin sentirme escuchado al hablar de mi visita.",0,sintético,536,val
+AT-0899,"Mientras me atendian, hablaron tan rapido que no entendi casi nada. Despues de pasar a la sala, me molesto tener que pasar por eso.",0,sintético,537,train
+AT-0218,"De esa manana recuerdo que, sali sin ninguna orientacion para volver. Me fui desanimado al terminar de atenderme.",0,sintético,538,val
+AT-0072,"De esa mañana recuerdo que, hablamos de la visita anterior. Guardé la reserva junto a los papeles después de mi turno.",1,sintético,539,test
+AT-0412,"En esa atención, arreglaron el error de mi nombre sin complicarme. Cuando ya estaba afuera, sí volvería a ese lugar.",2,sintético,540,train
+AT-0046,"Desde mi lado, me avisaron a tiempo cuando me tocaba. Al concluir mi visita, para la proxima regresaria.",2,sintético,541,val
+AT-0368,"en mi cita, me mandaron de un lado a otro sin resolver nada después de mi turno, me quedé con mucha frustración",0,sintético,542,test
+AT-0317,"Con mis preguntas anotadas, senti que mis preguntas les molestaban. Senti que no les importaba al acabar la atencion.",0,sintético,543,train
+AT-0658,"Al entrar, me hicieron sentir en confianza. Cuando recogi mis cosas, da gusto q atiendan asi.",2,sintético,544,train
+AT-0415,"En la cita que tenia, me hicieron sentir en confianza. Me parecio una atencion cercana al terminar mi cita.",2,sintético,545,train
+AT-0878,"Lo que paso fue que, casi no me dejaron hablar. Cuando llegue a casa, me quedo con una mala impresion.",0,sintético,546,train
+AT-0511,"En esa atención, cumplieron con la hora que me habían dado. Cuando me fui de ahí, sentí que valió la pena ir.",2,sintético,547,test
+AT-0800,"una cosa que puedo contar es que, hablaron tan rápido que no entendí casi nada sentí que no les importaba después de la conversación",0,sintético,548,train
+AT-0631,Con mis preguntas anotadas me dieron una mano para moverme por el lugar. Me llevo una buena experiencia después de esa mañana,2,sintético,549,train
+AT-0989,"Al acudir al lugar, me hicieron sentir como si estorbara. Eso me dejo bastante incomodo al terminar mi cita.",0,sintético,550,train
+AT-0833,"Lo que paso fue que, otros pasaron antes y no me explicaron por que. Despues de recoger mi carpeta, me dio pena que me trataran asi.",0,sintético,551,train
+AT-0504,"En mi caso, me llamaron después de la persona que estaba antes. Apunté lo que decía el papel al contar lo que pasó.",1,sintético,552,train
+AT-0644,"a mí, me mandaron a pedir otra cita sin explicarme cómo al dejar el lugar, me costaría recomendar ese lugar",0,sintético,553,train
+AT-0099,"hoy, el doctor leyó los papeles que llevé mi acompañante me esperaba afuera tras salir del cuarto",1,sintético,554,test
+AT-0838,"En el rato que estuve ahí, me hablaron bonito y con respeto. Luego de esa cita, me dejó confianza para volver.",2,sintético,555,val
+AT-0107,"Con mi acompanante ahi, sali sin ninguna orientacion para volver. Al terminar mi cita, buscaria otro lugar la proxima vez.",0,sintético,556,train
+AT-0202,"Hablando de esa cita, arreglaron el error de mi nombre sin complicarme. Cuando me toco irme, me dejo conforme lo que hicieron.",2,sintético,557,train
+AT-0471,"En esa visita, me senté en la sala antes de pasar. Al dejar el lugar, llevaba el número de la cita en el celular.",1,sintético,558,train
+AT-0383,"Como paciente, entró gente sin preguntar y me incomodó. Al hablar de mi visita, terminé la visita con disgusto.",0,sintético,559,train
+AT-0242,"En mi caso, salí sin saber bien qué tenía que hacer. Luego de esa cita, terminé la visita con disgusto.",0,sintético,560,val
+AT-0098,"Esta vez, me mandaron de un lado a otro sin resolver nada. Me quedó una preocupación innecesaria cuando salí del lugar.",0,sintético,561,train
+AT-0267,"Por mi parte, espere con mi numero en la mano. Puse los documentos en mi bolso al terminar mi cita.",1,sintético,562,test
+AT-0893,"la verdad, me hicieron sentir como si estorbara al salir por la entrada, sentí que no les importaba",0,sintético,563,test
+AT-0839,"Como paciente, me hicieron volver a llenar los mismos papeles. Despues de hablar con el doctor, espero q lo revisen.",0,sintético,564,val
+AT-0528,"Por mi parte, me hisieron preguntas sobre como me sentia. Al concluir mi visita, mire la hora al salir del lugar.",1,sintético,565,train
+AT-0969,"al hablar con el personal, hablamos de la visita anterior tras esa atención, tenía la cita apuntada desde antes",1,sintético,566,train
+AT-0234,"Una cosa q puedo contar es q, me indicaron q papeles llevar la proxima vez. Cuando me fui de ahi, deje los papeles en mi carpeta.",1,sintético,567,train
+AT-0070,"Desde mi lado, el cuarto estaba ordenado y pude estar tranquilo. Cuando salí del lugar, se agradece ese cuidado.",2,sintético,568,val
+AT-0947,"Con la cita ya reservada, me hicieron sentir como si estorbara. Me decepcionó esa manera de atender después de mi turno.",0,sintético,569,train
+AT-0155,"En mi última visita, el doctor parecía querer que me fuera rápido. Tras esa atención, ojalá arreglen eso.",0,sintético,570,test
+AT-0457,"Al entrar, me aclararon todo lo que pregunté. Al volver a casa, me pareció una atención cercana.",2,sintético,571,train
+AT-0179,"Con mis preguntas anotadas, salí sin ninguna orientación para volver. Me fui desanimado al contar lo q pasó.",0,sintético,572,train
+AT-0082,En la cita de esta semana me explicaron con palabras fáciles. Al recordar ese día sí volvería a ese lugar,2,sintético,573,train
+AT-0737,"En esa visita, me dejaron sin saber cuándo tenía q regresar. No quedé contento con lo q pasó luego de esa cita.",0,sintético,574,train
+AT-0357,Al llegar mi momento hablamos de la visita anterior. Me llevé la copia q me dieron después de la conversación,1,sintético,575,train
+AT-0562,"a mí, me hablaron bonito y con respeto cuando me tocó irme, me sentí bien atendido",2,sintético,576,val
+AT-0642,"Cuando me toco pasar, anote el dia que aparece en el papel. Deje los papeles en mi carpeta cuando me fui de ahi.",1,sintético,577,test
+AT-0247,Mientras estaba ahí me dejaron hablar y eso se agradece. Me pareció una atención cercana después de mi turno,2,sintético,578,train
+AT-0040,"Al acudir al lugar, sentí q de verdad me escuchaban. Agradezco cómo se portaron conmigo después de hablar con el doctor.",2,sintético,579,train
+AT-0120,"con mi acompañante ahí, hablé con el doctor dentro del cuarto después de lo de hoy, guardé la reserva junto a los papeles",1,sintético,580,train
+AT-0743,Al entrar se me fue la mañana en la fila y me molestó. Ojalá arreglen eso después de esa mañana,0,sintético,581,train
+AT-0062,"En esa atencion, no me dijeron como sacar la proxima cita. Al recordar como me fue, me fui desanimado.",0,sintético,582,train
+AT-0864,"Con la cita ya reservada, me pidieron confirmar mi nombre antes de entrar. Al recordar ese día, recogí mi carpeta antes de salir.",1,sintético,583,val
+AT-0714,"Con la cita ya reservada, me indicaron q pregunte en la entrada por otra hora. La visita quedo anotada en mi agenda despues de la conversacion.",1,sintético,584,train
+AT-0212,"en la consulta de hoy, hablaron tan rápido q no entendí casi nada al salir por la entrada, ojalá arreglen eso",0,sintético,585,val
+AT-0463,"En esa visita, el doctor tuvo paciencia conmigo. Tras haber ido a la cita, le contaria algo bueno a mi familia.",2,sintético,586,test
+AT-0742,Cuando fui a verme encontraron mi reserva enseguida. Me sentí bien atendido luego de ver cómo atendían,2,sintético,587,test
+AT-0308,"Al llegar mi momento, me hisieron sentir como si estorbara. Después de esa hora, me fui desanimado.",0,sintético,588,test
+AT-0220,"Hoy, por fin entendí lo que tenía que hacer. Al hablar de mi visita, me quedo con una buena impresión.",2,sintético,589,test
+AT-0949,"Segun lo que vivi, me dejaron un numero para preguntar despues. Cuando me toco irme, se agradece ese cuidado.",2,sintético,590,test
+AT-0426,"mientras estaba ahí, el doctor leyó los papeles que llevé al hablar de mi visita, salí con la carpeta que había llevado",1,sintético,591,train
+AT-0807,"Por lo que me toco vivir, me hicieron preguntas sobre como me sentia. Despues de pasar a la sala, sali con la carpeta que habia llevado.",1,sintético,592,train
+AT-0335,"Con mi acompañante ahí, dijeron mis cosas frente a otros y me dio vergüenza. Me fui desanimado cuando recogí mis cosas.",0,sintético,593,train
+AT-0280,"a mí, todo estaba ordenado y pasé sin problemas cuando ya estaba afuera, terminé con ganas de volver",2,sintético,594,train
+AT-0128,"Durante la visita, les dije q me costaba moverme y no hicieron caso. No quisiera repetir esa experiencia al recordar cómo me fue.",0,sintético,595,test
+AT-0754,"Sin exagerar, me ayudaron a separar la siguiente cita. Para la próxima regresaría después de pasar a la sala.",2,sintético,596,train
+AT-0468,"Por lo que me tocó vivir, mostré la reserva de mi cita en la entrada. Después de la conversación, miré la hora al salir del lugar.",1,sintético,597,train
+AT-0325,"Una cosa que puedo contar es que, cerraron la puerta para que pudiera hablar tranquilo. Fue agradable encontrar ese trato tras salir del cuarto.",2,sintético,598,train
+AT-0495,"A decir verdad, me hicieron preguntas sobre como me sentia. Conserve la hoja de la visita tras esa atencion.",1,sintético,599,train
+AT-0981,"en la cita que tenía, la próxima fecha quedó pendiente de que abran las citas cuando recogí mis cosas, me fui después de recoger mis cosas",1,sintético,600,val
+AT-0145,"En el rato que estuve ahi, resolvieron lo de mi cita sin hacerme dar vueltas. Al terminar mi cita, para la proxima regresaria.",2,sintético,601,train
+AT-0760,"Hablando de esa cita, me tocó pasar sin esperar tanto. Cuando volví a mi rutina, salí con una sensación buena.",2,sintético,602,train
+AT-0121,"De mi atención puedo decir que, me aclararon todo lo que pregunté. Luego de esa cita, terminé con ganas de volver.",2,sintético,603,test
+AT-0546,"Al hablar con el personal, me dieron un número para esperar. Después de esa visita, llevaba el número de la cita en el celular.",1,sintético,604,test
+AT-0609,Esta vez me entregaron la fecha para volver. Tenía mi número de cita guardado al volver a casa,1,sintético,605,train
+AT-0371,"Sin exagerar, había tanto ruido que no escuchaba al doctor. Al conversar con mi acompañante, no me dieron ganas de regresar.",0,sintético,606,val
+AT-0608,"Al entrar, no supe qué hacer después porque nadie me explicó. Al conversar con mi acompañante, me sentí dejado de lado.",0,sintético,607,train
+AT-0582,"Como paciente, me indicaron qué papeles llevar la próxima vez. Al conversar con mi acompañante, llevé mis documentos de vuelta a casa.",1,sintético,608,val
+AT-0537,"El dia que fui, confirmaron mi nombre antes de darme el turno. Mi acompanante me esperaba afuera cuando me toco irme.",1,sintético,609,train
+AT-0474,"A mí, revisaron mis datos y me indicaron dónde pasar. Mi acompañante me esperaba afuera después de la conversación.",1,sintético,610,train
+AT-0111,Lo que recuerdo es que me senté en la sala antes de pasar. Tenía mi número de cita guardado cuando me fui de ahí,1,sintético,611,test
+AT-0626,"en la cita de esta semana, lo que me dijeron no coincidía con el papel y me confundí me molestó tener que pasar por eso al contar lo que pasó",0,sintético,612,val
+AT-0678,Para ser sincero mi acompañante se quedó afuera mientras me revisaban. Después de esa mañana la visita quedó anotada en mi agenda,1,sintético,613,train
+AT-0367,"Hablando de esa cita, el lugar estaba limpio y me sentí cómodo. Eso me dio bastante tranquilidad tras el rato que pasé ahí.",2,sintético,614,val
+AT-0527,"Ahora que lo pienso, no me dijeron como sacar la proxima cita. Despues de recoger mi carpeta, se me quitaron las ganas de volver.",0,sintético,615,train
+AT-0641,"justo en mi turno, llamé para preguntar después y nadie me respondió cuando volví a mi rutina, quedé con una sensación fea",0,sintético,616,test
+AT-0217,"Al momento de atenderme, me ayudaron a separar la siguiente cita. Tras esa atención, agradezco cómo se portaron conmigo.",2,sintético,617,val
+AT-0237,"cuando fui a verme, esperé en una de las sillas del pasillo al irme del establecimiento, la visita quedó anotada en mi agenda",1,sintético,618,train
+AT-0286,Según lo que viví entendí lo que me dijeron sin quedarme con dudas. Ojalá sigan atendiendo de esa manera después de la conversación,2,sintético,619,train
+AT-0941,Una cosa q puedo contar es q sentí q mis preguntas les molestaban. Me quedo con una mala impresión tras el rato q pasé ahí,0,sintético,620,test
+AT-0884,Hablando de esa cita tuve q subir por mi cuenta aunq me costaba mucho. Al pensar en mi próxima visita no me dieron ganas de regresar,0,sintético,621,train
+AT-0589,"En el rato que estuve ahí, me dejaron hablar y eso se agradece. Se nota cuando tienen paciencia al recordar ese día.",2,sintético,622,train
+AT-0534,"El día que fui, me pidieron confirmar mi nombre antes de entrar. Al recordar ese día, llevé mis documentos de vuelta a casa.",1,sintético,623,train
+AT-0493,"Al entrar, por fin entendí lo que tenía que hacer. Al concluir mi visita, me fui más tranquilo.",2,sintético,624,train
+AT-0523,"Si cuento lo q pasó, me aclararon todo lo q pregunté. Me quedo con una buena impresión después de esa mañana.",2,sintético,625,train
+AT-0186,"de verdad, me indicaron que pregunte en la entrada por otra hora dejé los papeles en mi carpeta después de la conversación",1,sintético,626,test
+AT-0382,"Al llegar mi momento, me explicaron con palabras fáciles. Me dejó confianza para volver cuando ya estaba afuera.",2,sintético,627,test
+AT-0094,"Desde q pase a la sala, cuidaron q nadie viera mientras me revisaban. Al concluir mi visita, sali sintiendo q me tomaron en cuenta.",2,sintético,628,val
+AT-0349,"En la cita q tenía, entendí lo q me dijeron sin quedarme con dudas. Al terminar de hablar, fue agradable encontrar ese trato.",2,sintético,629,train
+AT-0914,"durante la visita, me dejaron esperando un montón sin decir nada espero que lo revisen después de esa mañana",0,sintético,630,train
+AT-0769,"Con la cita ya reservada, respetaron q quisiera estar a solas. Sentí q valió la pena ir después de esa visita.",2,sintético,631,train
+AT-0020,El día que fui me cortaban cuando intentaba contar lo que tenía. Después de esa hora no me sentí tomado en cuenta,0,sintético,632,val
+AT-0295,"De esa manana recuerdo que, me explicaron despacito y eso me ayudo. Tras el rato que pase ahi, ojala sigan atendiendo de esa manera.",2,sintético,633,train
+AT-0240,"De mi atención puedo decir que, el doctor leyó los papeles que llevé. Tenía los documentos que me habían pedido al irme del establecimiento.",1,sintético,634,train
+AT-0716,"En esa visita, pregunte otra ves y me dejaron con la misma duda. Buscaria otro lugar la proxima vez al volver a casa.",0,sintético,635,train
+AT-0251,"Mientras estaba ahí, salí sin ninguna orientación para volver. Cuando ya estaba afuera, me decepcionó esa manera de atender.",0,sintético,636,val
+AT-0290,"Esta vez, me hicieron sentir como si estorbara. Al dejar el lugar, me quedé pensando en lo mal que me fue.",0,sintético,637,val
+AT-0235,"Al acudir al lugar, me dejaron hablar y eso se agradece. Para mí fue una buena visita tras esa atención.",2,sintético,638,train
+AT-0483,"Por lo que me tocó vivir, anotaron lo que les conté. Mi acompañante me esperaba afuera cuando volví a ver mis papeles.",1,sintético,639,train
+AT-0391,"Mientras me atendían, el cuarto estaba ordenado y pude estar tranquilo. Después de esa visita, terminé con ganas de volver.",2,sintético,640,train
+AT-0787,"cuando me tocó pasar, el doctor me repitió las cosas con paciencia tras haber ido a la cita, me dejó conforme lo que hicieron",2,sintético,641,test
+AT-0816,"La verdad, esperé en una de las sillas del pasillo. Anoté el nombre de quien me atendió cuando me fui de ahí.",1,sintético,642,train
+AT-0634,"A decir verdad, el doctor tuvo paciencia conmigo. Sí volvería a ese lugar cuando volví a mi rutina.",2,sintético,643,test
+AT-0139,"en cuanto a la atención, pude atenderme a la hora que tenía separada cuando ya estaba afuera, me dio confianza la atención",2,sintético,644,test
+AT-0503,"A decir verdad, hablaron tan rápido que no entendí casi nada. Ese trato me hizo perder confianza al terminar mi cita.",0,sintético,645,train
+AT-0259,"Al entrar, el lugar estaba limpio y me sentí cómodo. Después de mi turno, terminé con ganas de volver.",2,sintético,646,val
+AT-0635,"Cuando fui a verme, me hisieron hacer otra fila por un error de ellos. Me fui con mucha molestia después de hablar con el doctor.",0,sintético,647,val
+AT-0765,"de verdad, mostré la reserva de mi cita en la entrada volví a guardar mis papeles cuando terminó la visita",1,sintético,648,train
+AT-0757,"el día que fui, me hablaron bonito y con respeto luego de ver cómo atendían, me llevo una buena experiencia",2,sintético,649,train
+AT-0323,"Durante la visita, salí sin saber bien qué tenía que hacer. Al repasar lo que ocurrió, esperaba algo mejor.",0,sintético,650,train
+AT-0913,"Con mi acompañante ahí, me hablaron bonito y con respeto. Después de lo de hoy, fue agradable encontrar ese trato.",2,sintético,651,test
+AT-0605,"esta ves, salí sin saber bien qué tenía que hacer sentí que no les importaba cuando recogí mis cosas",0,sintético,652,train
+AT-0805,"algo que me quedó fue que, el doctor me repitió las cosas con paciencia cuando terminó la visita, terminé con ganas de volver",2,sintético,653,train
+AT-0940,"cuando llegó mi turno, me dejaron un número para preguntar después ojalá sigan atendiendo de esa manera después de mi turno",2,sintético,654,test
+AT-0924,"Durante la visita, me dijeron que llevara mis papeles en la siguiente visita. Mi acompañante me esperaba afuera cuando llegué a casa.",1,sintético,655,val
+AT-0929,En mi cita me hicieron hacer otra fila por un error de ellos. Al recordar ese día me quedo con una mala impresión,0,sintético,656,train
+AT-0901,"Ya dentro del lugar, me trataron con carino sin apurarme. Me alegro que me trataran asi cuando llegue a casa.",2,sintético,657,train
+AT-0321,"Por lo q me tocó vivir, me senté cerca de la puerta donde llamaban. Anoté la fecha en mi teléfono después de lo de hoy.",1,sintético,658,train
+AT-0233,"El dia que fui, senti que mis preguntas les molestaban. No me senti tomado en cuenta al terminar de atenderme.",0,sintético,659,val
+AT-0650,"Cuando me tocó pasar, cambiaron mi hora cuando yo ya estaba ahí y me fastidió. Me decepcionó esa manera de atender después de esa mañana.",0,sintético,660,train
+AT-0087,"al llegar mi momento, me atendieron en el cuarto que me habían indicado al hablar de mi visita, me llevé el documento con la fecha",1,sintético,661,train
+AT-0244,En mi caso me dieron espacio para hablar sin gente alrededor. Sí volvería a ese lugar cuando me fui de ahí,2,sintético,662,train
+AT-0119,"Como paciente, el doctor parecía querer que me fuera rápido. Al contar lo que pasó, terminé fastidiado.",0,sintético,663,val
+AT-0819,"Lo que recuerdo es que, el doctor leyó los papeles que llevé. Al conversar con mi acompañante, apunté lo que decía el papel.",1,sintético,664,train
+AT-0486,"Con mi acompañante ahí, anotaron lo que les conté. Recogí mi carpeta antes de salir al contar lo que pasó.",1,sintético,665,train
+AT-0681,"Cuando fui a verme, me dijeron dónde preguntar por la siguiente cita. Después de esa mañana, guardé el papel que me entregaron.",1,sintético,255,train
+AT-0250,"En esa atención, sentí que de verdad me escuchaban. Me quedo con una buena impresión cuando me tocó irme.",2,sintético,666,train
+AT-0210,"Al momento de atenderme, anotaron lo que les conté. Tras haber ido a la cita, conservé la hoja de la visita.",1,sintético,667,train
+AT-0333,"a decir verdad, busqué mi sala siguiendo los números me llevé la copia que me dieron al repasar lo que ocurrió",1,sintético,668,val
+AT-0484,"Sin darle tantas vueltas, resolvieron lo de mi cita sin hacerme dar vueltas. Me quedo con una buena impresion cuando llegue a casa.",2,sintético,669,train
+AT-0673,Al llegar mi momento salí sabiendo cómo pedir la próxima hora. Me llevo una buena experiencia cuando salí del lugar,2,sintético,670,test
+AT-0519,"En esa atención, anoté el día q aparece en el papel. Al pensar en mi próxima visita, me llevé el documento con la fecha.",1,sintético,671,train
+AT-0300,"En mi caso, la conversación fue dentro del lugar donde me atendían. Anoté la visita en mi cuaderno al concluir mi visita.",1,sintético,672,train
+AT-0343,"Desde que pasé a la sala, me dieron una mano para moverme por el lugar. Al concluir mi visita, eso me dio bastante tranquilidad.",2,sintético,673,val
+AT-0006,"Al entrar, entregué los papeles que me pidieron. Después de esa visita, anoté la fecha en mi teléfono.",1,sintético,674,val
+AT-0696,"Lo q recuerdo es q, mostré la reserva de mi cita en la entrada. Después de lo de hoy, apunté lo q decía el papel.",1,sintético,675,train
+AT-0885,"En esa visita, anote el dia que aparece en el papel. La visita quedo anotada en mi agenda cuando sali del lugar.",1,sintético,676,train
+AT-0180,"Por mi parte, el cuarto quedaba al final del pasillo. Anoté el nombre de quien me atendió después de esa visita.",1,sintético,677,train
+AT-0846,"Una cosa que puedo contar es que, vi el letrero de mi sala antes de entrar. Al pensar en mi próxima visita, pasé por la entrada para recoger mis cosas.",1,sintético,678,train
+AT-0677,"El día que fui, la espera fue demasiado larga para lo que me habían dicho. Me dio pena que me trataran así después de pasar a la sala.",0,sintético,679,train
+AT-0638,"Al hablar con el personal, me hicieron caminar de un lado a otro sin ayudarme. No quisiera repetir esa experiencia al acabar la atención.",0,sintético,680,val
+AT-0987,En mi última visita anotaron lo que les conté. Al recordar cómo me fue miré la hora al salir del lugar,1,sintético,681,train
+AT-0410,"para ser sincero, el doctor parecía querer que me fuera rápido no me sentí tomado en cuenta al volver a casa",0,sintético,682,train
+AT-0820,"en el rato que estuve ahí, me guiaron bien desde la entrada pude salir sin esa preocupación al concluir mi visita",2,sintético,683,train
+AT-0670,"Si cuento lo que pasó, el lugar estaba limpio y me sentí cómodo. Tras salir del cuarto, salí con una sensación buena.",2,sintético,684,val
+AT-0945,Lo que pasó fue que me indicaron que pregunte en la entrada por otra hora. Anoté la visita en mi cuaderno después de recoger mi carpeta,1,sintético,685,val
+AT-0834,Desde mi lado me indicaron que pregunte en la entrada por otra hora. Volví a guardar mis papeles tras el rato que pasé ahí,1,sintético,686,train
+AT-0134,"Esta vez, me dejaron esperando un montón sin decir nada. Después de mi turno, me dio pena que me trataran así.",0,sintético,687,train
+AT-0588,"De verdad, el doctor leyo los papeles q lleve. Cerre mi carpeta antes de salir al pensar en mi proxima visita.",1,sintético,688,train
+AT-0973,Por mi parte acercaron una silla y eso me ayudó mucho. Me hizo bien que me atendieran así después de pasar a la sala,2,sintético,689,train
+AT-0114,"Mientras me atendian, pase despues de que salio la otra persona. Recogi mi carpeta antes de salir cuando llegue a casa.",1,sintético,690,test
+AT-0061,"La verdad, me aclararon todo lo que pregunté. Me hizo bien que me atendieran así al concluir mi visita.",2,sintético,691,val
+AT-0073,"En la cita que tenía, acercaron una silla y eso me ayudó mucho. Me ayudó que fueran así de atentos tras esa atención.",2,sintético,692,val
+AT-0152,Ahora que lo pienso me cansé de esperar sin que nadie respondiera. Buscaría otro lugar la próxima vez cuando volví a mi rutina,0,sintético,693,train
+AT-0188,"El día que fui, pedí ayuda para entrar y nadie vino. Tras haber ido a la cita, me sentí dejado de lado.",0,sintético,694,test
+AT-0571,"Cuando llegó mi turno, me dejaron hablar y eso se agradece. Tras esa atención, me llevo una buena experiencia.",2,sintético,695,test
+AT-0438,Algo que me quedó fue que esperé en una de las sillas del pasillo. Me reuní con quien me acompañaba después de la conversación,1,sintético,696,train
+AT-0932,En esa atención otros pasaron antes y no me explicaron por qué. Cuando volví a ver mis papeles quedé con una sensación fea,0,sintético,697,test
+AT-0365,"Justo en mi turno, el doctor parecia querer que me fuera rapido. Despues de esa manana, me quedo con una mala impresion.",0,sintético,698,train
+AT-0574,"En mi cita, me ayudaron a entrar cuando lo pedi. Se agradece ese cuidado cuando recogi mis cosas.",2,sintético,699,test
+AT-0795,"En la consulta de hoy, confirmaron mi nombre antes de darme el turno. Guardé la reserva junto a los papeles cuando volví a mi rutina.",1,sintético,700,train
+AT-0162,"Cuando me tocó pasar, me indicaron qué papeles llevar la próxima vez. Después de esa hora, llevé mis documentos de vuelta a casa.",1,sintético,701,test
+AT-0727,"Con mis preguntas anotadas, me aclararon todo lo que pregunte. Tras haber ido a la cita, sali sintiendo que me tomaron en cuenta.",2,sintético,702,train
+AT-0465,"En la consulta de hoy, me entregaron la fecha para volver. Al concluir mi visita, dejé anotada la hora de la siguiente visita.",1,sintético,703,train
+AT-0337,"por lo q vi, me tocó pasar sin esperar tanto cuando salí del lugar, me sentí bien atendido",2,sintético,704,val
+AT-0701,"Una cosa que puedo contar es que, me hicieron sentir como si estorbara. Me fui sin sentirme escuchado al pensar en mi próxima visita.",0,sintético,705,test
+AT-0904,En cuanto a la atención resolvieron lo de mi cita sin hacerme dar vueltas. Para la próxima regresaría al hablar de mi visita,2,sintético,706,val
+AT-0033,"Ahora q lo pienso, confirmaron mi nombre antes de darme el turno. Anoté la fecha en mi teléfono cuando llegué a casa.",1,sintético,707,train
+AT-0143,"De esa manana recuerdo que, entro gente sin preguntar y me incomodo. No quisiera repetir esa experiencia al salir por la entrada.",0,sintético,708,test
+AT-0322,En mi cita arreglaron el error de mi nombre sin complicarme. Sentí que valió la pena ir cuando terminó la visita,2,sintético,709,val
+AT-0032,"Mientras estaba ahí, me cortaban cuando intentaba contar lo que tenía. Me fui con mucha molestia luego de ver cómo atendían.",0,sintético,710,train
+AT-0829,Para ser sincero me hicieron sentir en confianza. Da gusto que atiendan así tras salir del cuarto,2,sintético,711,train
+AT-0154,"cuando fui a verme, me ayudaron con los papeles y fue fácil quedé contento con el trato al recordar ese día",2,sintético,712,test
+AT-0510,"lo que recuerdo es que, me hicieron preguntas sobre cómo me sentía tras esa atención, conservé la hoja de la visita",1,sintético,713,val
+AT-0294,"Lo primero que recuerdo es que, me dieron un papel con lo que debía hacer. Al contar lo que pasó, tenía los documentos que me habían pedido.",1,sintético,714,train
+AT-0749,"En el rato que estuve ahí, otros pasaron antes y no me explicaron por qué. Al volver a casa, me fui con mucha molestia.",0,sintético,715,val
+AT-0616,"esta vez, me ayudaron con los papeles y fue fácil salí sintiendo que me tomaron en cuenta al hablar de mi visita",2,sintético,716,val
+AT-0238,"Si cuento lo que paso, el doctor tuvo paciencia conmigo. Me fui mas tranquilo al terminar mi cita.",2,sintético,717,train
+AT-0739,Lo primero que recuerdo es que la fila avanzó rápido y me vino bien. Para mí fue una buena visita cuando me tocó irme,2,sintético,718,train
+AT-0347,"sin exagerar, me quedé esperando ayuda en la entrada y me sentí olvidado tras el rato que pasé ahí, eso me dejó bastante incómodo",0,sintético,719,train
+AT-0643,"Cuando me toco pasar, me guiaron bien desde la entrada. Me dejo confianza para volver despues de pasar a la sala.",2,sintético,720,train
+AT-0921,"desde que pasé a la sala, me hicieron preguntas sobre cómo me sentía dejé los papeles en mi carpeta al dejar el lugar",1,sintético,721,val
+AT-0423,"Durante la visita, hable con el doctor dentro del cuarto. Tras haber ido a la cita, me reuni con quien me acompanaba.",1,sintético,722,val
+AT-0584,"En cuanto a la atencion, lo q me dijeron no coincidia con el papel y me confundi. Despues de hablar con el doctor, no quisiera repetir esa experiencia.",0,sintético,723,train
+AT-0556,"en la cita de esta semana, el doctor tuvo paciencia conmigo eso me dio bastante tranquilidad al irme del establecimiento",2,sintético,724,test
+AT-0157,A mí cumplieron con la hora que me habían dado. Después de esa mañana me quedo con una buena impresión,2,sintético,725,train
+AT-0507,"En la cita que tenía, me pidieron confirmar mi nombre antes de entrar. Cuando me tocó irme, consulté la fecha antes de irme.",1,sintético,726,train
+AT-0928,"Hoy, me dieron espacio para hablar sin gente alrededor. Me hizo bien que me atendieran así cuando volví a mi rutina.",2,sintético,727,val
+AT-0778,"Cuando me llamaron, me acompañaron hasta donde tenía que pasar. Le contaría algo bueno a mi familia después de esa visita.",2,sintético,728,train
+AT-0453,"Al acudir al lugar, revisaron mis datos y me indicaron donde pasar. Revise el papel cuando llegue a casa al terminar de hablar.",1,sintético,729,test
+AT-0129,"De verdad, me pidieron confirmar mi nombre antes de entrar. Tras el rato que pasé ahí, anoté la fecha en mi teléfono.",1,sintético,730,train
+AT-0988,"mientras estaba ahí, me dejaron un número para preguntar después después de esa visita, salí con una sensación buena",2,sintético,731,train
+AT-0260,Cuando fui a verme entró gente sin preguntar y me incomodó. Esperaba algo mejor al hablar de mi visita,0,sintético,732,train
+AT-0360,"El día que fui, pasé después de que salió la otra persona. Conservé la hoja de la visita al acabar la atención.",1,sintético,733,train
+AT-0602,"Por mi parte, me cortaban cuando intentaba contar lo que tenía. Al terminar mi cita, me quedo con una mala impresión.",0,sintético,734,train
+AT-0655,"Al presentarme a la cita, entendí lo que me dijeron sin quedarme con dudas. Después de lo de hoy, me sentí bien atendido.",2,sintético,735,train
+AT-0840,"La verdad, mire la pantalla donde salian los turnos. Cuando sali del lugar, deje los papeles en mi carpeta.",1,sintético,736,test
+AT-0656,"con mi acompañante ahí, llamé para preguntar después y nadie me respondió no me parece bien que sea así cuando recogí mis cosas",0,sintético,737,test
+AT-0067,"Con mi acompañante ahí, el cuarto estaba ordenado y pude estar tranquilo. Tras salir del cuarto, me sentí bien atendido.",2,sintético,738,test
+AT-0740,"Por mi parte, se me fue la mañana en la fila y me molestó. Me quedó una preocupación innecesaria después de lo de hoy.",0,sintético,739,test
+AT-0311,"De esa manana recuerdo que, la puerta quedo abierta mientras me revisaban. Cuando recogi mis cosas, se me quitaron las ganas de volver.",0,sintético,740,val
+AT-0843,Al entrar me indicaron qué papeles llevar la próxima vez. Me llevé la copia que me dieron al recordar cómo me fue,1,sintético,741,val
+AT-0277,Mientras estaba ahí todo estaba ordenado y pasé sin problemas. Cuando recogí mis cosas pude salir sin esa preocupación,2,sintético,742,train
+AT-0113,"en la cita que tenía, salí sin saber bien qué tenía que hacer al pensar en mi próxima visita, no me parece bien que sea así",0,sintético,743,train
+AT-0283,"Mientras estaba ahí, salí sabiendo cómo pedir la próxima hora. Eso me dio bastante tranquilidad luego de ver cómo atendían.",2,sintético,744,train
+AT-0146,"una cosa que puedo contar es que, no encontraban mi cita y tuve que repetir todo tras esa atención, salí más preocupado de lo que entré",0,sintético,745,val
+AT-0051,"En cuanto a la atencion, mostre la reserva de mi cita en la entrada. Cuando ya estaba afuera, guarde el papel que me entregaron.",1,sintético,746,train
+AT-0977,"Al entrar, lo que me dijeron no coincidía con el papel y me confundí. No quedé contento con lo que pasó cuando recogí mis cosas.",0,sintético,747,train
+AT-0249,"Mientras estaba ahí, me dijeron dónde preguntar por la siguiente cita. Conservé la hoja de la visita cuando llegué a casa.",1,sintético,748,train
+AT-0881,"Por lo que vi, otros pasaron antes y no me explicaron por qué. Eso me dejó bastante incómodo al irme del establecimiento.",0,sintético,749,train
+AT-0049,"Si cuento lo q pasó, me dijeron claramente cuándo tenía q volver. Me dejó conforme lo q hicieron al salir por la entrada.",2,sintético,750,train
+AT-0874,"En la cita que tenía, el doctor tuvo paciencia conmigo. Al irme del establecimiento, eso me dio bastante tranquilidad.",2,sintético,724,test
+AT-0301,Mientras me atendían por fin entendí lo que tenía que hacer. Al concluir mi visita me alegró que me trataran así,2,sintético,751,train
+AT-0937,"Al momento de atenderme, no se me fue toda la manana esperando. Sali con una sensacion buena al recordar ese dia.",2,sintético,752,test
+AT-0991,"durante la visita, el doctor me repitió las cosas con paciencia me quedé a gusto después de mi turno",2,sintético,753,test
+AT-0915,"en aquella consulta, hablé con el doctor dentro del cuarto me reuní con quien me acompañaba tras el rato que pasé ahí",1,sintético,754,train
+AT-0836,Al acudir al lugar me dejaron esperando un montón sin decir nada. Me fui sin sentirme escuchado cuando llegué a casa,0,sintético,755,val
+AT-0106,"En mi ultima visita, cerraron la puerta para que pudiera hablar tranquilo. Me alegro que me trataran asi cuando sali del lugar.",2,sintético,756,train
+AT-0738,"En la consulta de hoy, me dieron un papel con lo que debía hacer. Cuando volví a mi rutina, volví a guardar mis papeles.",1,sintético,757,train
+AT-0401,"Hablando de esa cita, cambiaron mi hora cuando yo ya estaba ahí y me fastidió. Me decepcionó esa manera de atender luego de esa cita.",0,sintético,660,train
+AT-0747,"Mientras me atendían, revisaron mis datos y me indicaron dónde pasar. Cuando recogí mis cosas, mi acompañante me esperaba afuera.",1,sintético,758,test
+AT-0320,"de esa mañana recuerdo que, el cuarto estaba sucio y eso me dio desconfianza cuando me tocó irme, ese trato me hizo perder confianza",0,sintético,759,train
+AT-0842,"Cuando me llamaron, nadie sabia donde debia ir y perdi tiempo. Al irme del establecimiento, me costaria recomendar ese lugar.",0,sintético,760,train
+AT-0307,Al presentarme a la cita me aclararon todo lo que pregunté. Me sentí bien atendido tras salir del cuarto,2,sintético,761,train
+AT-0137,"Como paciente, sentí que cualquiera podía escuchar lo que contaba. Cuando volví a ver mis papeles, me fui desanimado.",0,sintético,762,train
+AT-0068,"De verdad, sentí que mis preguntas les molestaban. Me molestó tener que pasar por eso al hablar de mi visita.",0,sintético,763,test
+AT-0003,"Para ser sincero, anoté el día que aparece en el papel. Cuando me tocó irme, pasé por la entrada para recoger mis cosas.",1,sintético,764,train
+AT-0351,Hablando de esa cita anoté el día que aparece en el papel. Después de esa visita recogí mi carpeta antes de salir,1,sintético,765,train
+AT-0221,"tal como me pasó, me quedé esperando ayuda en la entrada y me sentí olvidado después de hablar con el doctor, no me parece bien q sea así",0,sintético,766,train
+AT-0917,"Cuando llegó mi turno, dejaron pasar a otra persona sin avisarme y me molestó. Luego de esa cita, me quedé pensando en lo mal que me fue.",0,sintético,767,val
+AT-0997,Una cosa que puedo contar es que pude atenderme a la hora que tenía separada. Me dejó conforme lo que hicieron al acabar la atención,2,sintético,768,train
+AT-0232,Durante la visita resolvieron lo de mi cita sin hacerme dar vueltas. Cuando terminó la visita da gusto que atiendan así,2,sintético,769,test
+AT-0151,"En esa atención, por fin entendí lo que tenía que hacer. Me dejó confianza para volver después de hablar con el doctor.",2,sintético,770,train
+AT-0316,"En el rato q estuve ahí, arreglaron el error de mi nombre sin complicarme. Me llevo una buena experiencia al acabar la atención.",2,sintético,771,val
+AT-0603,"mientras estaba ahí, el cuarto quedaba al final del pasillo al repasar lo que ocurrió, guardé el papel que me entregaron",1,sintético,772,train
+AT-0487,"en la consulta de hoy, salí sabiendo cómo pedir la próxima hora salí con una sensación buena al concluir mi visita",2,sintético,773,val
+AT-0854,"En mi caso, otros pasaron antes y no me explicaron por qué. Después de mi turno, sentí q no les importaba.",0,sintético,774,val
+AT-0982,"Ahora que lo pienso, cerraron la puerta para que pudiera hablar tranquilo. Me dejó conforme lo que hicieron después de esa mañana.",2,sintético,775,val
+AT-0001,"El dia q fui, me dejaron hablar y eso se agradece. Me ayudo q fueran asi de atentos al salir por la entrada.",2,sintético,776,train
+AT-0480,"En esa visita, me atendieron en el cuarto que me habían indicado. Después de esa hora, tenía la cita apuntada desde antes.",1,sintético,777,val
+AT-0284,"Algo q me quedó fue q, me hicieron sentir como si estorbara. Después de esa mañana, me fui sin sentirme escuchado.",0,sintético,778,test
+AT-0565,"en la cita que tenía, me ayudaron con los papeles y fue fácil me alegró que me trataran así cuando volví a mi rutina",2,sintético,779,train
+AT-0505,"Desde q pasé a la sala, el cuarto estaba ordenado y pude estar tranquilo. Ojalá sigan atendiendo de esa manera al conversar con mi acompañante.",2,sintético,780,train
+AT-0394,"Ahora q lo pienso, me hablaron bonito y con respeto. Después de hablar con el doctor, me fui más tranquilo.",2,sintético,781,val
+AT-0718,"En mi ultima visita, el lugar estaba limpio y me senti comodo. Ojala sigan atendiendo de esa manera cuando me toco irme.",2,sintético,782,train
+AT-0226,Lo primero que recuerdo es que me dejaron un número para preguntar después. Al terminar de atenderme salí sintiendo que me tomaron en cuenta,2,sintético,783,train
+AT-0413,"Con mis preguntas anotadas, mi hora paso y nadie me aviso que ocurria. Senti que no les importaba al hablar de mi visita.",0,sintético,784,test
+AT-0038,Justo en mi turno me cansé de esperar sin q nadie respondiera. Se me quitaron las ganas de volver al pensar en mi próxima visita,0,sintético,785,train
+AT-0632,"sin exagerar, me hablaron de mala manera cuando volví a ver mis papeles, buscaría otro lugar la próxima vez",0,sintético,786,train
+AT-0231,"Al acudir al lugar, me indicaron que pregunte en la entrada por otra hora. Después de recoger mi carpeta, tenía mi número de cita guardado.",1,sintético,787,test
+AT-0147,La verdad anoté el día que aparece en el papel. Me reuní con quien me acompañaba cuando volví a ver mis papeles,1,sintético,788,train
+AT-0709,"Al momento de atenderme, la fila avanzó rápido y me vino bien. Se nota cuando tienen paciencia al salir por la entrada.",2,sintético,789,test
+AT-0707,"Cuando me toco pasar, senti que mis preguntas les molestaban. Ese trato me hizo perder confianza al irme del establecimiento.",0,sintético,790,train
+AT-0116,De mi atención puedo decir q me dejaron esperando un montón sin decir nada. Tras el rato q pasé ahí me molestó tener q pasar por eso,0,sintético,791,train
+AT-0310,"Al momento de atenderme, arreglaron el error de mi nombre sin complicarme. Cuando recogi mis cosas, para la proxima regresaria.",2,sintético,792,val
+AT-0799,De mi atención puedo decir que me facilitaron llegar sin hacerme caminar de más. Tras salir del cuarto me dio confianza la atención,2,sintético,793,train
+AT-0837,"En la cita q tenía, me dijeron dónde preguntar por la siguiente cita. Al acabar la atención, mi acompañante me esperaba afuera.",1,sintético,794,val
+AT-0522,"De mi atención puedo decir que, me senté cerca de la puerta donde llamaban. Me reuní con quien me acompañaba al salir por la entrada.",1,sintético,795,val
+AT-0745,En la cita de esta semana resolvieron lo de mi cita sin hacerme dar vueltas. Al dejar el lugar salí sintiendo que me tomaron en cuenta,2,sintético,796,train
+AT-0612,"Como paciente, anotaron lo que les conté. Cuando volví a ver mis papeles, mi acompañante me esperaba afuera.",1,sintético,639,train
+AT-0502,"tal como me pasó, me indicaron dónde llamar y eso me dio tranquilidad se agradece ese cuidado al terminar mi cita",2,sintético,797,train
+AT-0933,Al momento de atenderme el cuarto quedaba al final del pasillo. Dejé los papeles en mi carpeta después de mi turno,1,sintético,798,train
+AT-0830,"Lo que recuerdo es que, no encontraban mi cita y tuve que repetir todo. Me sentí dejado de lado cuando salí del lugar.",0,sintético,799,test
+AT-0812,"cuando fui a verme, me dejaron esperando un montón sin decir nada eso me dejó bastante incómodo cuando terminó la visita",0,sintético,800,train
+AT-0671,"Para ser sincero, la puerta quedó abierta mientras me revisaban. Al contar lo que pasó, eso me dejó bastante incómodo.",0,sintético,801,val
+AT-0219,"Al hablar con el personal, me llamaron después de la persona que estaba antes. La visita quedó anotada en mi agenda al recordar cómo me fue.",1,sintético,802,test
+AT-0887,"Al hablar con el personal, no consegui que me aclararan lo que quedo pendiente. Espero que lo revisen luego de ver como atendian.",0,sintético,803,train
+AT-0513,"por lo que vi, me indicaron qué papeles llevar la próxima vez cuando me fui de ahí, anoté el nombre de quien me atendió",1,sintético,804,train
+AT-0576,"Hablando de esa cita, me dieron un numero para esperar. Despues de mi turno, deje anotada la hora de la siguiente visita.",1,sintético,805,val
+AT-0705,"Según lo que viví, la próxima fecha quedó pendiente de que abran las citas. Llevaba el número de la cita en el celular al hablar de mi visita.",1,sintético,806,train
+AT-0785,"Esta vez, no consegui que me aclararan lo que quedo pendiente. Espero que lo revisen cuando termino la visita.",0,sintético,807,val
+AT-0075,"Al hablar con el personal, la conversacion fue dentro del lugar donde me atendian. Deje los papeles en mi carpeta al concluir mi visita.",1,sintético,808,train
+AT-0086,"Desde mi lado, hablaron tan rapido q no entendi casi nada. Al conversar con mi acompanante, termine fastidiado.",0,sintético,809,val
+AT-0264,"Con la cita ya reservada, espere en una de las sillas del pasillo. Cerre mi carpeta antes de salir despues de esa manana.",1,sintético,810,val
+AT-0362,"con lo que me pasó, el lugar se veía descuidado y me desagradó cuando ya estaba afuera, me molestó tener que pasar por eso",0,sintético,811,train
+AT-0427,"Con lo que me paso, me explicaron como volver si tenia otra duda. Me fui mas tranquilo despues de la conversacion.",2,sintético,812,val
+AT-0744,Al hablar con el personal la próxima fecha quedó pendiente de que abran las citas. Llevé mis documentos de vuelta a casa tras el rato que pasé ahí,1,sintético,813,train
+AT-0041,"Al momento de atenderme, lo q me dijeron no coincidia con el papel y me confundi. Despues de lo de hoy, no quede conforme con la atencion.",0,sintético,814,train
+AT-0216,"Con mis preguntas anotadas, el cuarto quedaba al final del pasillo. Tenia la cita apuntada desde antes al terminar mi cita.",1,sintético,815,val
+AT-0770,En la consulta de hoy no me dieron una mano cuando la necesitaba. Tras el rato que pasé ahí me sentí dejado de lado,0,sintético,816,train
+AT-0222,"en mi cita, me dijeron que llevara mis papeles en la siguiente visita me fui después de recoger mis cosas luego de esa cita",1,sintético,817,val
+AT-0398,"Sin darle tantas vueltas, pedí ayuda para entrar y nadie vino. Me fui con mucha molestia al acabar la atención.",0,sintético,818,train
+AT-0019,"Durante la visita, me trataron con cariño sin apurarme. Me llevo una buena experiencia tras salir del cuarto.",2,sintético,819,val
+AT-0384,"Por lo que vi, la próxima fecha quedó pendiente de que abran las citas. Después de lo de hoy, volví a guardar mis papeles.",1,sintético,820,test
+AT-0289,"Desde mi lado, me guiaron bien desde la entrada. Me llevo una buena experiencia cuando volví a mi rutina.",2,sintético,821,train
+AT-0447,"en mi cita, mi acompañante se quedó afuera mientras me revisaban recogí mi carpeta antes de salir al acabar la atención",1,sintético,822,train
+AT-0789,"Justo en mi turno, me atendieron en el cuarto que me habian indicado. Anote la fecha en mi telefono despues de la conversacion.",1,sintético,823,train
+AT-0178,"En aquella consulta, sentí que de verdad me escuchaban. Cuando ya estaba afuera, ojalá sigan atendiendo de esa manera.",2,sintético,824,val
+AT-0984,"ahora que lo pienso, entregué los papeles que me pidieron puse los documentos en mi bolso cuando me fui de ahí",1,sintético,825,train
+AT-0669,Cuando llegó mi turno me dijeron que llevara mis papeles en la siguiente visita. Pasé por la entrada para recoger mis cosas al dejar el lugar,1,sintético,826,test
+AT-0071,"con mi acompañante ahí, me cansé de esperar sin que nadie respondiera cuando recogí mis cosas, me fui desanimado",0,sintético,827,test
+AT-0490,"Cuando me llamaron, el doctor me repitió las cosas con paciencia. Después de pasar a la sala, salí con una sensación buena.",2,sintético,828,train
+AT-0456,"La verdad, revisaron mis datos y me indicaron dónde pasar. Salí por la puerta principal tras el rato q pasé ahí.",1,sintético,829,train
+AT-0417,"a decir verdad, me dieron un papel con lo que debía hacer cuando volví a ver mis papeles, me fui después de recoger mis cosas",1,sintético,830,train
+AT-0610,"Sin exagerar, me indicaron dónde llamar y eso me dio tranquilidad. Al recordar ese día, salí sintiendo que me tomaron en cuenta.",2,sintético,831,train
+AT-0692,"Cuando me llamaron, tuve que subir por mi cuenta aunque me costaba mucho. Sentí que no les importaba después de esa hora.",0,sintético,832,train
+AT-0270,"El día que fui, me atendieron en el cuarto que me habían indicado. Al recordar cómo me fue, anoté la fecha en mi teléfono.",1,sintético,833,val
+AT-0549,Ya dentro del lugar me entregaron la fecha para volver. Después de mi turno puse los documentos en mi bolso,1,sintético,834,val
+AT-0774,"Para ser sincero, confirmaron mi nombre antes de darme el turno. Anoté el nombre de quien me atendió tras salir del cuarto.",1,sintético,835,val
+AT-0629,"Sin exagerar, me hicieron sentir como si estorbara. No quedé conforme con la atención al concluir mi visita.",0,sintético,836,test
+AT-0163,"lo que recuerdo es que, me dieron una mano para moverme por el lugar al acabar la atención, me quedo con una buena impresión",2,sintético,837,train
+AT-0024,Ahora que lo pienso esperé hasta que dijeron mi nombre. Tras esa atención dejé los papeles en mi carpeta,1,sintético,838,train
+AT-0026,"Al acudir al lugar, el lugar se veía descuidado y me desagradó. Al terminar de hablar, sentí que no les importaba.",0,sintético,839,train
+AT-0776,"en mi caso, me cortaban cuando intentaba contar lo que tenía buscaría otro lugar la próxima vez tras esa atención",0,sintético,840,test
+AT-0788,"Lo que recuerdo es que, el doctor parecía querer que me fuera rápido. Al terminar de atenderme, ojalá arreglen eso.",0,sintético,841,test
+AT-0607,En la cita que tenía me indicaron dónde llamar y eso me dio tranquilidad. Me hizo bien que me atendieran así al recordar ese día,2,sintético,842,train
+AT-0647,"para contar cómo me fue, no encontraban mi cita y tuve q repetir todo eso me dejó bastante incómodo al volver a casa",0,sintético,843,train
+AT-0618,Sobre mi visita entregué los papeles q me pidieron. Anoté la visita en mi cuaderno después de hablar con el doctor,1,sintético,844,train
+AT-0883,"En la consulta de hoy, me explicaron con palabras fáciles. Salí sintiendo q me tomaron en cuenta después de mi turno.",2,sintético,845,train
+AT-0378,"sin darle tantas vueltas, pasé por la mesa donde revisan las citas dejé los papeles en mi carpeta al terminar mi cita",1,sintético,846,test
+AT-0859,"El día que fui, me avisaron a tiempo cuando me tocaba. Ojalá sigan atendiendo de esa manera después de esa hora.",2,sintético,847,train
+AT-0112,"Esta vez, me guiaron bien desde la entrada. Para mi fue una buena visita al terminar mi cita.",2,sintético,848,val
+AT-0525,"Como paciente, busqué mi sala siguiendo los números. Después de mi turno, llevé mis documentos de vuelta a casa.",1,sintético,849,train
+AT-0037,"Cuando fui a verme, me indicaron donde llamar y eso me dio tranquilidad. Despues de esa hora, me quede a gusto.",2,sintético,850,test
+AT-0628,"Con lo que me pasó, me dijeron claramente cuándo tenía que volver. Fue agradable encontrar ese trato al terminar mi cita.",2,sintético,851,test
+AT-0009,"cuando llegó mi turno, me hicieron preguntas sobre cómo me sentía al dejar el lugar, pasé por la entrada para recoger mis cosas",1,sintético,852,train
+AT-0191,"Cuando fui a verme, hablaron tan rápido que no entendí casi nada. No me dieron ganas de regresar al repasar lo que ocurrió.",0,sintético,853,train
+AT-0517,"Como paciente, me explicaron con palabras fáciles. Me alegró q me trataran así cuando ya estaba afuera.",2,sintético,854,val
+AT-0028,"A mi, cuidaron que nadie viera mientras me revisaban. Cuando termino la visita, me quedo con una buena impresion.",2,sintético,855,val
+AT-0352,"con lo que me pasó, me avisaron a tiempo cuando me tocaba agradezco cómo se portaron conmigo después de esa visita",2,sintético,856,train
+AT-0967,"hoy, me aclararon todo lo que pregunté da gusto que atiendan así después de mi turno",2,sintético,857,val
+AT-0164,"con mi acompañante ahí, me hicieron sentir como si estorbara no me parece bien que sea así después de esa mañana",0,sintético,858,train
+AT-0054,"Hoy, espere hasta que dijeron mi nombre. Sali con la carpeta que habia llevado al acabar la atencion.",1,sintético,859,train
+AT-0092,"en mi última visita, lo que me dijeron no coincidía con el papel y me confundí después de mi turno, esperaba algo mejor",0,sintético,860,train
+AT-0617,"De esa manana recuerdo q, me hicieron caminar de un lado a otro sin ayudarme. Esperaba algo mejor al conversar con mi acompanante.",0,sintético,861,test
+AT-0276,"En mi caso, hable con el doctor dentro del cuarto. Cuando volvi a mi rutina, mi acompanante me esperaba afuera.",1,sintético,862,train
+AT-0868,"Sobre mi visita, salí sabiendo cómo pedir la próxima hora. Quedé contento con el trato al salir por la entrada.",2,sintético,863,train
+AT-0278,"Cuando fui a verme, no me dijeron como sacar la proxima cita. Se me quitaron las ganas de volver tras esa atencion.",0,sintético,864,train
+AT-0327,"La verdad, me pidieron confirmar mi nombre antes de entrar. Después de recoger mi carpeta, pasé por la entrada para recoger mis cosas.",1,sintético,865,train
+AT-0338,"De mi atención puedo decir que, el ruido de afuera no dejaba hablar tranquilo. Me fui con mucha molestia cuando me tocó irme.",0,sintético,866,train
+AT-0580,"Al acudir al lugar, me explicaron con palabras fáciles. Al dejar el lugar, para mí fue una buena visita.",2,sintético,867,train
+AT-0369,"en esa atención, revisaron mis datos y me indicaron dónde pasar llevé mis documentos de vuelta a casa al hablar de mi visita",1,sintético,868,test
+AT-0168,"Al presentarme a la cita, el doctor leyo los papeles que lleve. Cerre mi carpeta antes de salir cuando recogi mis cosas.",1,sintético,869,train
+AT-0735,"Durante la visita, hice la fila para que me llamaran. Guardé la reserva junto a los papeles al recordar cómo me fue.",1,sintético,870,train
+AT-0543,"Justo en mi turno, confirmaron mi nombre antes de darme el turno. Conservé la hoja de la visita cuando volví a mi rutina.",1,sintético,871,train
+AT-0008,"según lo que viví, me cortaban cuando intentaba contar lo que tenía salí más preocupado de lo que entré cuando terminó la visita",0,sintético,872,train
+AT-0935,"Mientras estaba ahí, hablaron tan rápido q no entendí casi nada. No me parece bien q sea así cuando volví a mi rutina.",0,sintético,873,val
+AT-0992,"Mientras estaba ahi, senti q cualquiera podia escuchar lo q contaba. Cuando volvi a mi rutina, no quede conforme con la atencion.",0,sintético,874,train
+AT-0857,"En mi ultima visita, me canse de esperar sin que nadie respondiera. Al repasar lo que ocurrio, me fui desanimado.",0,sintético,875,val
+AT-0648,"una cosa que puedo contar es que, anotaron lo que les conté al pensar en mi próxima visita, llevaba el número de la cita en el celular",1,sintético,876,train
+AT-0042,"mientras me atendían, me atendieron en el cuarto q me habían indicado llevaba el número de la cita en el celular cuando terminó la visita",1,sintético,877,val
+AT-0312,"Cuando llegó mi turno, me dieron un número para esperar. Cuando volví a ver mis papeles, miré la hora al salir del lugar.",1,sintético,878,test
+AT-0482,"Tal como me pasó, la puerta quedó abierta mientras me revisaban. Se me quitaron las ganas de volver al dejar el lugar.",0,sintético,879,train
+AT-0594,"En mi caso, confirmaron mi nombre antes de darme el turno. Al conversar con mi acompañante, miré la hora al salir del lugar.",1,sintético,880,test
+AT-0563,"Al llegar mi momento, casi no me dejaron hablar. Luego de esa cita, sentí que no les importaba.",0,sintético,881,train
+AT-0731,"cuando me tocó pasar, me hablaron de mala manera después de la conversación, me fui con mucha molestia",0,sintético,882,train
+AT-0122,"en la cita que tenía, salí sin ninguna orientación para volver al dejar el lugar, me quedó una preocupación innecesaria",0,sintético,883,train
+AT-0167,"Mientras estaba ahí, salí sin saber bien qué tenía que hacer. Me costaría recomendar ese lugar al acabar la atención.",0,sintético,884,train
+AT-0736,"mientras me atendían, resolvieron lo de mi cita sin hacerme dar vueltas ojalá sigan atendiendo de esa manera luego de esa cita",2,sintético,885,train
+AT-0535,"Sin exagerar, cerraron la puerta para que pudiera hablar tranquilo. Tras el rato que pasé ahí, no tuve que insistir para que me escucharan.",2,sintético,886,val
+AT-0994,"Sin darle tantas vueltas, me explicaron con palabras fáciles. Sí volvería a ese lugar al terminar de hablar.",2,sintético,887,train
+AT-0518,"Lo que pasó fue que, no conseguí que me aclararan lo que quedó pendiente. Se me quitaron las ganas de volver tras el rato que pasé ahí.",0,sintético,888,train
+AT-0622,Al momento de atenderme la sala estaba cuidada y daba gusto estar ahí. Al contar lo que pasó da gusto que atiendan así,2,sintético,889,test
+AT-0428,"A decir verdad, el doctor parecía querer que me fuera rápido. No quisiera repetir esa experiencia cuando me fui de ahí.",0,sintético,890,train
+AT-0970,"Cuando me llamaron, salí sabiendo cómo pedir la próxima hora. Al dejar el lugar, me llevo una buena experiencia.",2,sintético,891,test
+AT-0797,"En mi caso, había tanto ruido q no escuchaba al doctor. Sentí q no les importaba cuando me fui de ahí.",0,sintético,892,train
+AT-0664,"Al momento de atenderme, el doctor me repitió las cosas con paciencia. Al pensar en mi próxima visita, me sentí bien atendido.",2,sintético,893,val
+AT-0462,"lo primero que recuerdo es que, hablamos de la visita anterior al recordar ese día, dejé anotada la hora de la siguiente visita",1,sintético,894,train
+AT-0459,"al entrar, esperé hasta q dijeron mi nombre al recordar ese día, salí por la puerta principal",1,sintético,895,train
+AT-0652,"Desde que pasé a la sala, entendí lo que me dijeron sin quedarme con dudas. Tras esa atención, terminé con ganas de volver.",2,sintético,896,train
+AT-0359,Con mis preguntas anotadas la puerta quedó abierta mientras me revisaban. Tras el rato que pasé ahí se me quitaron las ganas de volver,0,sintético,897,train
+AT-0968,"Al momento de atenderme, casi no me dejaron hablar. Cuando me tocó irme, no me parece bien que sea así.",0,sintético,898,train
+AT-0444,Al entrar me hicieron preguntas sobre cómo me sentía. Cuando ya estaba afuera puse los documentos en mi bolso,1,sintético,899,train
+AT-0013,"Mientras estaba ahi, me hicieron sentir en confianza. Ojala sigan atendiendo de esa manera al terminar de hablar.",2,sintético,900,train
+AT-0905,"La verdad, me hablaron de mala manera. Despues de hablar con el doctor, me quede con mucha frustracion.",0,sintético,901,train
+AT-0858,"En esa visita, hable con el doctor dentro del cuarto. Cerre mi carpeta antes de salir al terminar de hablar.",1,sintético,902,train
+AT-0418,Al llegar mi momento me explicaron despacito y eso me ayudó. Luego de esa cita se nota cuando tienen paciencia,2,sintético,903,test
+AT-0865,"En el rato que estuve ahí, sentí que de verdad me escuchaban. Cuando volví a mi rutina, me ayudó que fueran así de atentos.",2,sintético,904,train
+AT-0943,"al entrar, acercaron una silla y eso me ayudó mucho al terminar de atenderme, quedé contento con el trato",2,sintético,905,train
+AT-0446,"al llegar mi momento, la espera fue demasiado larga para lo que me habían dicho se me quitaron las ganas de volver cuando recogí mis cosas",0,sintético,906,train
+AT-0957,"Desde que pase a la sala, me dijeron que llevara mis papeles en la siguiente visita. Anote el nombre de quien me atendio al irme del establecimiento.",1,sintético,907,val
+AT-0946,"Por mi parte, me trataron con carino sin apurarme. Despues de mi turno, para la proxima regresaria.",2,sintético,908,train
+AT-0849,"de esa mañana recuerdo q, anoté el día q aparece en el papel anoté la visita en mi cuaderno cuando volví a ver mis papeles",1,sintético,909,train
+AT-0400,"Ya dentro del lugar, me preguntaron antes de dejar entrar a alguien más. Pude salir sin esa preocupación tras el rato que pasé ahí.",2,sintético,910,val
+AT-0245,"Al entrar, hablaron tan rapido q no entendi casi nada. Cuando termino la visita, no me senti tomado en cuenta.",0,sintético,911,val
+AT-0657,"Al entrar, me dieron un número para esperar. Anoté la fecha en mi teléfono al contar lo que pasó.",1,sintético,912,train
+AT-0773,"En la cita que tenía, dijeron mis cosas frente a otros y me dio vergüenza. Después de la conversación, me molestó tener que pasar por eso.",0,sintético,913,val
+AT-0161,"Al llegar mi momento, me cortaban cuando intentaba contar lo que tenia. Me costaria recomendar ese lugar despues de esa hora.",0,sintético,914,train
+AT-0601,Lo primero que recuerdo es que me tocó pasar sin esperar tanto. Después de hablar con el doctor se agradece ese cuidado,2,sintético,915,test
+AT-0497,"Sin darle tantas vueltas, casi no me dejaron hablar. Cuando me tocó irme, me sentí dejado de lado.",0,sintético,916,test
+AT-0852,"Como paciente, me dieron un numero para esperar. Despues de esa visita, tenia mi numero de cita guardado.",1,sintético,917,val
+AT-0065,"Sin darle tantas vueltas, me mandaron de un lado a otro sin resolver nada. Después de esa mañana, sentí que no les importaba.",0,sintético,918,train
+AT-0361,"En esa visita, me trataron con cariño sin apurarme. Al hablar de mi visita, le contaría algo bueno a mi familia.",2,sintético,919,val
+AT-0342,"En mi caso, me dijeron dónde preguntar por la siguiente cita. Al irme del establecimiento, mi acompañante me esperaba afuera.",1,sintético,920,train
+AT-0659,En mi caso me dejaron esperando un montón sin decir nada. Salí más preocupado de lo q entré al recordar cómo me fue,0,sintético,921,train
+AT-0315,"Cuando me llamaron, la próxima fecha quedó pendiente de que abran las citas. Me llevé el documento con la fecha cuando me tocó irme.",1,sintético,922,test
+AT-0189,"En esa visita, la proxima fecha quedo pendiente de q abran las citas. Al terminar mi cita, llevaba el numero de la cita en el celular.",1,sintético,923,train
+AT-0821,Hablando de esa cita lo que me dijeron no coincidía con el papel y me confundí. Después de esa hora sentí que no les importaba,0,sintético,924,train
+AT-0181,"De verdad, todo estaba ordenado y pasé sin problemas. Cuando terminó la visita, me dejó conforme lo q hicieron.",2,sintético,925,train
+AT-0346,"En la cita de esta semana, me hicieron sentir en confianza. Para la próxima regresaría después de lo de hoy.",2,sintético,926,val
+AT-0407,A mí me hisieron volver a llenar los mismos papeles. Al dejar el lugar no quedé conforme con la atención,0,sintético,927,train
+AT-0017,"Algo que me quedó fue que, salí sin ninguna orientación para volver. Me fui desanimado al dejar el lugar.",0,sintético,928,test
+AT-0464,"En el rato que estuve ahi, no encontraban mi cita y tuve que repetir todo. Luego de esa cita, eso me dejo bastante incomodo.",0,sintético,929,val
+AT-0794,"A mí, me mandaron de un lado a otro sin resolver nada. Cuando terminó la visita, buscaría otro lugar la próxima vez.",0,sintético,930,test
+AT-0792,"en esa atención, la próxima fecha quedó pendiente de que abran las citas después de recoger mi carpeta, tenía la cita apuntada desde antes",1,sintético,931,test
+AT-0717,"De esa manana recuerdo que, confirmaron mi nombre antes de darme el turno. Despues de esa visita, la visita quedo anotada en mi agenda.",1,sintético,932,val
+AT-0326,"Al entrar, el cuarto estaba sucio y eso me dio desconfianza. Me fui sin sentirme escuchado al volver a casa.",0,sintético,933,train
+AT-0248,"Por lo que me tocó vivir, no supe qué hacer después porque nadie me explicó. Me costaría recomendar ese lugar cuando terminó la visita.",0,sintético,934,test
+AT-0587,"En aquella consulta, casi no me dejaron hablar. Tras el rato que pase ahi, esperaba algo mejor.",0,sintético,935,train
+AT-0890,"tal como me pasó, me hicieron sentir como si estorbara luego de ver cómo atendían, me quedó una preocupación innecesaria",0,sintético,936,test
+AT-0508,"En mi caso, el doctor tuvo paciencia conmigo. Senti que valio la pena ir al repasar lo que ocurrio.",2,sintético,937,val
+AT-0687,"Esta ves, busqué mi sala siguiendo los números. Llevé mis documentos de vuelta a casa al recordar cómo me fue.",1,sintético,938,val
+AT-0892,"Desde mi lado, me hablaron bonito y con respeto. Despues de hablar con el doctor, me alegro que me trataran asi.",2,sintético,939,train
+AT-0560,"En mi cita, entró gente sin preguntar y me incomodó. Me dio pena que me trataran así al recordar ese día.",0,sintético,940,train
+AT-0710,"En el rato que estuve ahí, no supe qué hacer después porque nadie me explicó. Espero que lo revisen después de mi turno.",0,sintético,941,test
+AT-0108,"En la cita de esta semana, la conversacion fue dentro del lugar donde me atendian. Deje los papeles en mi carpeta cuando recogi mis cosas.",1,sintético,942,train
+AT-0526,"Al momento de atenderme, sentí q de verdad me escuchaban. Después de mi turno, sentí q valió la pena ir.",2,sintético,943,train
+AT-0550,"Al presentarme a la cita, cumplieron con la hora que me habían dado. Cuando recogí mis cosas, me dejó confianza para volver.",2,sintético,944,val
+AT-0420,"para contar cómo me fue, me indicaron qué papeles llevar la próxima vez al dejar el lugar, me fui después de recoger mis cosas",1,sintético,945,val
+AT-0939,En mi cita me dieron un papel con lo que debía hacer. Conservé la hoja de la visita después de hablar con el doctor,1,sintético,946,train
+AT-0246,"en la cita q tenía, me indicaron q pregunte en la entrada por otra hora al acabar la atención, conservé la hoja de la visita",1,sintético,947,train
+AT-0477,Desde que pasé a la sala anoté el día que aparece en el papel. Al contar lo que pasó salí con la carpeta que había llevado,1,sintético,948,val
+AT-0702,En esa atención pasé por la mesa donde revisan las citas. Pasé por la entrada para recoger mis cosas al terminar de hablar,1,sintético,949,test
+AT-0783,"Cuando llegó mi turno, entregué los papeles que me pidieron. Al recordar cómo me fue, cerré mi carpeta antes de salir.",1,sintético,950,test
+AT-0282,"en mi caso, hablamos de la visita anterior miré la hora al salir del lugar después de pasar a la sala",1,sintético,951,val
+AT-0058,Mientras estaba ahí por fin entendí lo q tenía q hacer. Al pensar en mi próxima visita se agradece ese cuidado,2,sintético,952,train
+AT-0408,"Cuando fui a verme, me hicieron preguntas sobre cómo me sentía. Me reuní con quien me acompañaba después de esa hora.",1,sintético,953,val
+AT-0454,"Al llegar mi momento, me explicaron cómo volver si tenía otra duda. Cuando volví a ver mis papeles, me dejó confianza para volver.",2,sintético,954,test
+AT-0889,"Hoy, me trataron con cariño sin apurarme. Terminé con ganas de volver cuando me fui de ahí.",2,sintético,955,train
+AT-0421,"En la cita de esta semana, el ambiente se sentía agradable. Al contar lo q pasó, me dejó confianza para volver.",2,sintético,956,train
+AT-0581,"Justo en mi turno, sali sin ninguna orientacion para volver. Esperaba algo mejor al recordar ese dia.",0,sintético,957,train
+AT-0916,"Al llegar mi momento, me indicaron dónde llamar y eso me dio tranquilidad. Me quedo con una buena impresión después de hablar con el doctor.",2,sintético,958,test
+AT-0751,Al acudir al lugar el ambiente se sentía agradable. Al recordar cómo me fue me quedé a gusto,2,sintético,959,test
+AT-0330,"Con la cita ya reservada, confirmaron mi nombre antes de darme el turno. La visita quedó anotada en mi agenda al volver a casa.",1,sintético,960,train
+AT-0470,"Al acudir al lugar, lo que me dijeron no coincidia con el papel y me confundi. Me fui desanimado al terminar mi cita.",0,sintético,961,val
+AT-0801,Esta vez me dijeron dónde preguntar por la siguiente cita. Al recordar ese día volví a guardar mis papeles,1,sintético,962,test
+AT-0728,"De verdad, no encontraban mi cita y tuve que repetir todo. Al terminar de atenderme, espero que lo revisen.",0,sintético,963,train
+AT-0777,"en mi cita, me indicaron que pregunte en la entrada por otra hora después de esa visita, me reuní con quien me acompañaba",1,sintético,964,train
+AT-0433,Como paciente resolvieron lo de mi cita sin hacerme dar vueltas. Me fui más tranquilo al volver a casa,2,sintético,965,train
+AT-0958,En la cita de esta semana cerraron la puerta para q pudiera hablar tranquilo. Al concluir mi visita me llevo una buena experiencia,2,sintético,966,train
+AT-0488,"Al acudir al lugar, se me fue la mañana en la fila y me molestó. Al recordar cómo me fue, no me dieron ganas de regresar.",0,sintético,967,train
+AT-0825,"A decir verdad, hice la fila para que me llamaran. Después de la conversación, llevaba el número de la cita en el celular.",1,sintético,968,train
+AT-1000,"Si cuento lo q pasó, pude atenderme a la hora q tenía separada. Me quedé a gusto al terminar mi cita.",2,sintético,969,test
+AT-0451,Como paciente pude atenderme a la hora que tenía separada. Cuando recogí mis cosas agradezco cómo se portaron conmigo,2,sintético,970,train
+AT-0823,"Con lo que me pasó, me ayudaron a separar la siguiente cita. No tuve que insistir para que me escucharan después de mi turno.",2,sintético,971,train
+AT-0621,"En esa visita, revisaron mis datos y me indicaron dónde pasar. Llevé mis documentos de vuelta a casa cuando llegué a casa.",1,sintético,868,test
+AT-0753,"Lo que paso fue que, entregue los papeles que me pidieron. Al pensar en mi proxima visita, cerre mi carpeta antes de salir.",1,sintético,972,test
+AT-0566,"En mi última visita, me cortaban cuando intentaba contar lo que tenía. Terminé la visita con disgusto al salir por la entrada.",0,sintético,973,train
+AT-0553,"mientras me atendían, me dijeron claramente cuándo tenía que volver me quedo con una buena impresión luego de esa cita",2,sintético,974,train
+AT-0698,"Tal como me paso, pregunte otra vez y me dejaron con la misma duda. Me quedo una preocupacion innecesaria despues de esa manana.",0,sintético,975,train
+AT-0348,"en esa atención, el doctor leyó los papeles que llevé llevaba el número de la cita en el celular al conversar con mi acompañante",1,sintético,976,test
+AT-0630,"Cuando me llamaron, me indicaron que pregunte en la entrada por otra hora. Despues de hablar con el doctor, deje los papeles en mi carpeta.",1,sintético,977,test
+AT-0514,"En cuanto a la atencion, todo estaba ordenado y pase sin problemas. Cuando sali del lugar, eso me dio bastante tranquilidad.",2,sintético,978,test
+AT-0393,"Cuando llegó mi turno, me entregaron la fecha para volver. Me reuní con quien me acompañaba al irme del establecimiento.",1,sintético,979,test
+AT-0926,"hablando de esa cita, dijeron mis cosas frente a otros y me dio vergüenza no quisiera repetir esa experiencia tras salir del cuarto",0,sintético,980,train
+AT-0894,Hoy hice la fila para que me llamaran. Al terminar de hablar dejé los papeles en mi carpeta,1,sintético,981,train
+AT-0975,En esa visita confirmaron mi nombre antes de darme el turno. Después de la conversación anoté el nombre de quien me atendió,1,sintético,982,val
+AT-0573,"lo primero que recuerdo es que, me dijeron que llevara mis papeles en la siguiente visita la visita quedó anotada en mi agenda luego de esa cita",1,sintético,983,train
+AT-0862,Tal como me pasó el doctor tuvo paciencia conmigo. Luego de esa cita me hizo bien que me atendieran así,2,sintético,984,val
+AT-0579,"En la consulta de hoy, hice la fila para q me llamaran. Recogi mi carpeta antes de salir tras esa atencion.",1,sintético,985,train
+AT-0575,"En la cita que tenía, otros pasaron antes y no me explicaron por qué. Después de hablar con el doctor, me quedo con una mala impresión.",0,sintético,986,train
+AT-0291,"Cuando me llamaron, revisaron mis datos y me indicaron dónde pasar. Después de hablar con el doctor, conservé la hoja de la visita.",1,sintético,987,train
+AT-0436,Tal como me pasó me avisaron a tiempo cuando me tocaba. Me hizo bien que me atendieran así después de esa hora,2,sintético,988,train
+AT-0063,Según lo que viví anotaron lo que les conté. Cerré mi carpeta antes de salir cuando me tocó irme,1,sintético,989,train
+AT-0358,"En la cita que tenía, arreglaron el error de mi nombre sin complicarme. Cuando volví a ver mis papeles, pude salir sin esa preocupación.",2,sintético,990,train

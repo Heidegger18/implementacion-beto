@@ -1,0 +1,125 @@
+{
+  "naturaleza": "sintético",
+  "n_test": 200,
+  "beto_estado": "ejecutado",
+  "baseline": {
+    "accuracy": 0.615,
+    "f1_macro": 0.6195036794600749,
+    "por_clase": {
+      "negativo": {
+        "precision": 0.5806451612903226,
+        "recall": 0.5373134328358209,
+        "f1-score": 0.5581395348837209,
+        "support": 67.0
+      },
+      "neutral": {
+        "precision": 0.8225806451612904,
+        "recall": 0.7727272727272727,
+        "f1-score": 0.796875,
+        "support": 66.0
+      },
+      "positivo": {
+        "precision": 0.47368421052631576,
+        "recall": 0.5373134328358209,
+        "f1-score": 0.5034965034965035,
+        "support": 67.0
+      },
+      "accuracy": 0.615,
+      "macro avg": {
+        "precision": 0.6256366723259762,
+        "recall": 0.6157847127996382,
+        "f1-score": 0.6195036794600749,
+        "support": 200.0
+      },
+      "weighted avg": {
+        "precision": 0.6246519524617997,
+        "recall": 0.615,
+        "f1-score": 0.6186168228573752,
+        "support": 200.0
+      }
+    },
+    "matriz_confusion": [
+      [
+        36,
+        3,
+        28
+      ],
+      [
+        3,
+        51,
+        12
+      ],
+      [
+        23,
+        8,
+        36
+      ]
+    ]
+  },
+  "comparacion": {
+    "delta_f1": 0.06953977071697848,
+    "ic95_grupos": [
+      -0.014031875332390406,
+      0.1604974035730237
+    ],
+    "replicas": 1000,
+    "mcnemar_p": 0.16544051293398976,
+    "b": 37,
+    "c": 51,
+    "limite": "Sintético. McNemar supone independencia entre casos; no garantizada. No prueba eficacia clínica."
+  },
+  "beto": {
+    "accuracy": 0.685,
+    "f1_macro": 0.6890434501770534,
+    "por_clase": {
+      "negativo": {
+        "precision": 0.74,
+        "recall": 0.5522388059701493,
+        "f1-score": 0.6324786324786325,
+        "support": 67.0
+      },
+      "neutral": {
+        "precision": 0.9166666666666666,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.7719298245614035,
+        "support": 66.0
+      },
+      "positivo": {
+        "precision": 0.5490196078431373,
+        "recall": 0.835820895522388,
+        "f1-score": 0.6627218934911243,
+        "support": 67.0
+      },
+      "accuracy": 0.685,
+      "macro avg": {
+        "precision": 0.7352287581699347,
+        "recall": 0.6849087893864013,
+        "f1-score": 0.6890434501770534,
+        "support": 200.0
+      },
+      "weighted avg": {
+        "precision": 0.734321568627451,
+        "recall": 0.685,
+        "f1-score": 0.6886290183051317,
+        "support": 200.0
+      }
+    },
+    "matriz_confusion": [
+      [
+        37,
+        2,
+        28
+      ],
+      [
+        4,
+        44,
+        18
+      ],
+      [
+        9,
+        2,
+        56
+      ]
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "filas": 1000,
+  "columnas": [
+    "id_atencion",
+    "nombre_paciente",
+    "fecha_atencion",
+    "hora_atencion",
+    "especialidad",
+    "medico",
+    "comentario_atencion",
+    "etiqueta_sentimiento",
+    "codigo_sentimiento",
+    "aspecto_principal",
+    "origen_dato"
+  ],
+  "clases": {
+    "positivo": 334,
+    "neutral": 333,
+    "negativo": 333
+  },
+  "nulos_obligatorios": 0,
+  "duplicados": 0,
+  "origen": "sintético",
+  "etiquetado": "referencia sintética sin validación humana",
+  "sha256_dataset": "80c3226aa0632ff4f278ea95157160aace8a49bd78a76ec33d1c9690312b19b6"
+}

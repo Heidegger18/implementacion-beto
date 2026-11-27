@@ -1,0 +1,5 @@
+2026-10-15 22:07:57,996 Modo escasez activado: Train reducido a 45 registros (15 por clase)
+2026-10-15 22:07:57,997 Train=45, val=200, test=200
+2026-10-15 22:08:25,758 BETO época 1: macro-F1 val 0.3919
+2026-10-15 22:08:41,509 BETO época 2: macro-F1 val 0.5169
+2026-10-15 22:08:56,491 BETO época 3: macro-F1 val 0.6365
